@@ -31,15 +31,15 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Multi_source.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/Multi_source.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085?via%3Dihub)
 
 **Pengei Zhang**, Tianrui Li, Guoqiang Wang, Chuan Luo, Hongmei Chen, Junbo Zhang, Dexian Wang, Zeng Yu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='95' data='auw5EKcAAAAJ:M05iB0D1s5AC'></span></strong>
+-  In order tobetter clarify the approaches and application of MSIF in RST research community, this paper reviews the existing models and technologies from the perspectives of MSIF model (i.e., homogeneous and heterogeneous MSIF model), multi-view rough sets information fusion model (i.e., multi-granulation, multi-scale and multi-view decisions information fusion models), parallel computing information fusion model, incremental learning fusion technology and cluster ensembles fusion technology.
 </div>
 </div>
 
