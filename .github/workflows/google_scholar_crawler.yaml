@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Reqs
-      run: |
+      run: 
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
