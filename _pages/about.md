@@ -24,17 +24,18 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 One paper has been submitted to IEEE TFS.
-- *2023.04*: &nbsp;🎉🎉 One paper has been submitted to IEEE TNNLS.
+
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM TKDD.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TFS. 
 
 # 📝 Selected Journal Publications
 2023
--  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. 
--  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/), IEEE Transactions on Fuzzy Systems (TFS), 2023. 
--  **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang, [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731?via%3Dihub), Information Fusion, 2023.
+-  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. **CCF Rank B**, 
+-  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/), IEEE Transactions on Fuzzy Systems (TFS), 2023. **CCF Rank B**, 
+-  **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang, [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731?via%3Dihub), Information Fusion, 2023. 
+
 2022 
+- Zhihong Wang, Hongmei Chen, Zhong Yuan, Xiaoling Yang, **Pengfei Zhang**,Tianrui Li, [Exploiting fuzzy rough mutual information for feature selection](https://www.sciencedirect.com/science/article/pii/S1568494622008183?via%3Dihub), Applied Soft Computing, 2022.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
