@@ -20,15 +20,19 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/multisource-512x512.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/multisource-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085)
 
 **Pengfei Zhang**, Tianrui Li, Guoqiang, Wang, Chuan Luo, Hongmei Chen, Junbo Zhang, Dexian Wang, Zeng Yu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
-  This paper reviews the existing models and technologies from the perspectives of MSIF model, multi-view rough sets information fusion model, parallel computing information fusion model, incremental learning fusion technology and cluster ensembles fusion technology.
+[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Homogeneous and heterogeneous multi-source information fusion models
+  - Multi-view rough sets information fusion model
+  - Parallel computing information fusion model
+  - Incremental learning fusion technology
+  - Cluster ensembles fusion technology
 </div>
 </div>
 
