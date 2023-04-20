@@ -22,10 +22,11 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 
 # 🔥 News
-{%
+___
+---
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM Transactions on Knowledge Discovery from Data.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Fuzzy Systems. 
- %}
+ 
  
 # 📝 Publications 
 
