@@ -17,9 +17,8 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM Transactions on Knowledge Discovery from Data.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Fuzzy Systems. 
-
-# 📝 Publications  
-<h1 id="-Publications"><i class="fas fa-brain fa-spin"></i>  Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div></h1>
+  
+#  <h1 id="-Publications"><i class="fas fa-brain fa-spin"></i>  Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div></h1>
 
 Representative work
 
