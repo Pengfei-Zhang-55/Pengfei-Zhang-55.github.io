@@ -10,7 +10,7 @@ redirect_from:
 
 
 Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Guangxi Minzu University, Nanning, China, in 2019. He is currently pursuing the PhD degree with Southwest Jiaotong University, Chengdu, China. His research interests include granular computing, information fusion and data mining, especially on fuzzy set theory, possibility theory, rough set theory and feature selection. If you have any questions, please cpntact me by feifeihappy55@163.com.
- He have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=auw5EKcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url |  url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=422"></a>).
+ He have published more than 20 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=auw5EKcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url |  url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=422"></a>).
 
 
 # 🔥 Recent News
