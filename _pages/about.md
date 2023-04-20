@@ -20,14 +20,14 @@ redirect_from:
 Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Guangxi Minzu University, Nanning, China, in 2019. He is currently pursuing the PhD degree with Southwest Jiaotong University, Chengdu, China. His research interests include granular computing, information fusion and data mining, especially on fuzzy set theory, possibility theory, rough set theory and feature selection. 
  He have published more than 20 papers at the top international journals (including Information Fusion, the IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Fuzzy Systems, ACM Transactions on Knowledge Discovery from Data, Information Sciences, Applied Soft Computing, Engineering Applications of Artificial Intelligence and International Journal of Approximate Reasoning) with total <a href='https://scholar.google.com/citations?user=auw5EKcAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>. If you have any questions, please cpntact me by feifeihappy55@163.com.
 
-
+<span class='anchor' id='News'></span>
 # 🔥 News
-___
----
+
+
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM Transactions on Knowledge Discovery from Data.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Fuzzy Systems. 
  
- 
+<span class='anchor' id='Publications'></span>
 # 📝 Publications 
 
 Representative work
@@ -84,20 +84,25 @@ Representative work
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI, IF: 3.476)
 
 
+<span class='anchor' id='Honors and Awards'></span>
 # 🎖 Honors and Awards
 - *2022.12* National Scholarship (Top 1%). 
 - *2022.12* Mingcheng Award. 
 - *2019.12* Yang Hua New Talent Scholarship (Top 1%).
 
+<span class='anchor' id='Educations'></span>
 # 📖 Educations
 - *2019.09 - 2023.06 (now)*, Computer Science & Technology, School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, Sichuan. 
 - *2016.09 - 2019.06*, Basic Mathematics, School of Science, Guangxi Minzu University, Nanning, Guangxi. 
 - *2012.09 - 2016.06*, Mathematics and Applied Mathematics, School of Mathematics, Zunyi Normal University, Zunyi, Guizhou.
 - *2009.09 - 2012.06*, Kaili No.1 High School, Kaili, GuiZhou
 
+<span class='anchor' id='Invited Talks'></span>
 # 💬 Invited Talks
 - *2021.12.11*, 华侨大学数学与数学学院创院 60 周年系列讲座, Academic Reports. 
 - *2021.11.26*, ISKE2021, Group Report.
+
+<span class='anchor' id='Internships'></span>
 # 💻 Internships
  N/A
 
