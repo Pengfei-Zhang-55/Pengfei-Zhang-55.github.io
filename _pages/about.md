@@ -20,15 +20,15 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/multisource-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Pengfei Zhang**, Tianrui Li, Guoqiang, Wang, Chuan Luo, Hongmei Chen, Junbo Zhang, Dexian Wang, Zeng Yu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
+  This paper reviews the existing models and technologies from the perspectives of MSIF model, multi-view rough sets information fusion model, parallel computing information fusion model, incremental learning fusion technology and cluster ensembles fusion technology.
 </div>
 </div>
 
