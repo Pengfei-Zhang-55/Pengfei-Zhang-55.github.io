@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 
 Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Guangxi Minzu University, Nanning, China, in 2019. He is currently pursuing the PhD degree with Southwest Jiaotong University, Chengdu, China. His research interests include granular computing, information fusion and data mining, especially on fuzzy set theory, possibility theory, rough set theory and feature selection. 
  He have published more than 20 papers at the top international journals (including Information Fusion, the IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Fuzzy Systems, ACM Transactions on Knowledge Discovery from Data, Information Sciences, Applied Soft Computing, Engineering Applications of Artificial Intelligence and International Journal of Approximate Reasoning) with total <a href='https://scholar.google.com/citations?user=auw5EKcAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a>. If you have any questions, please cpntact me by feifeihappy55@163.com.
