@@ -13,7 +13,7 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
  He have published more than 20 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=auw5EKcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url |  url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=422"></a>).
 
 
-# 🔥 Recent News
+# 🔥 News
 
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM TKDD.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TFS. 
