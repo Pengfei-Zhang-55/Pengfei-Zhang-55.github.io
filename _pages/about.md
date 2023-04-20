@@ -83,6 +83,7 @@ Representative work
 - *2019.09 - 2023.06 (now)*, Computer Science & Technology, School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, Sichuan. 
 - *2016.09 - 2019.06*, Basic Mathematics, School of Science, Guangxi Minzu University, Nanning, Guangxi. 
 - *2012.09 - 2016.06*, Mathematics and Applied Mathematics, School of Mathematics, Zunyi Normal University, Zunyi, Guizhou.
+- *2009.09 - 2012.06*, Kaili No.1 High School, Kaili, GuiZhou
 
 # 💬 Invited Talks
 - *2021.12.11*, 华侨大学数学与数学学院创院 60 周年系列讲座, Academic Reports. 
