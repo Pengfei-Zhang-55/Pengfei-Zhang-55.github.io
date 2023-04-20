@@ -22,7 +22,7 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 Representative work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/multisource-512x512.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/multisource-192x192.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085)
