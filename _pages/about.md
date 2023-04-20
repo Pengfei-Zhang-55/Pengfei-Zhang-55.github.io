@@ -18,7 +18,7 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ACM TKDD.
 - *2023.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TFS. 
 
-# 📝 Selected Journal Publications
+# 📝 Publications
 2023
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI, IF: 4.157)
 -  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/). IEEE Transactions on Fuzzy Systems (TFS), 2023. (SCI, IF: 12.253)
@@ -56,12 +56,14 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12* National Scholarship (Top 1%). 
+- *2022.12* Mingcheng Award. 
+- *2019.12* Yang Hua New Talent Scholarship (Top 1%).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06 (now)*, Computer Science & Technology, School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, Sichuan. 
+- *2016.09 - 2019.06*, Basic Mathematics, School of Science, Guangxi Minzu University, Nanning, Guangxi. 
+- *2012.09 - 2016.06*, Mathematics and Applied Mathematics, School of Mathematics, Zunyi Normal University, Zunyi, Guizhou.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
