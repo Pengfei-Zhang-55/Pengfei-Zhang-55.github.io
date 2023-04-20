@@ -66,7 +66,8 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 - *2012.09 - 2016.06*, Mathematics and Applied Mathematics, School of Mathematics, Zunyi Normal University, Zunyi, Guizhou.
 
 # 💬 Invited Talks
-- *2021.11.26*, ISKE2021, Group Report.
 - *2021.12.11*, 华侨大学数学与数学学院创院 60 周年系列讲座, Academic Reports. 
+- *2021.11.26*, ISKE2021, Group Report.
+
 
 
