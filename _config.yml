@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengfei Zhang "
-description              : "P.h.D Candidate in @SWJTU, specialised in data mining. "
+description              : ""
 repository               : "Pengfei Zhang/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengfei Zhang<br />(张鹏飞)"
   avatar           : "images/A_android-chrome-512x512.png"
-  bio              : "P.h.D Candidate @ Southwest Jiaotong University"
+  bio              : "P.h.D Candidate @ SWJTU"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
