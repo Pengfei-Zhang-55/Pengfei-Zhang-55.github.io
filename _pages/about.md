@@ -42,8 +42,10 @@ Pengfei Zhang (张鹏飞) received the M. Sc. degree in mathematics from the Gua
 -  In order tobetter clarify the approaches and application of MSIF in RST research community, this paper reviews the existing models and technologies from the perspectives of MSIF model (i.e., homogeneous and heterogeneous MSIF model), multi-view rough sets information fusion model (i.e., multi-granulation, multi-scale and multi-view decisions information fusion models), parallel computing information fusion model, incremental learning fusion technology and cluster ensembles fusion technology.
 </div>
 </div>
+# Selected Journal Publications
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization. ACM Transactions on Knowledge Discovery from Data (TKDD), 2023.  [link](https://dl.acm.org/doi/10.1145/3584862), **TKDD 2023**
+-  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures, IEEE Transactions on Fuzzy Systems (TFS), 2023. [link](https://ieeexplore.ieee.org/document/10032146/) **TFS 2023**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
