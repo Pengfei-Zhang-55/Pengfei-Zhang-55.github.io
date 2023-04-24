@@ -2,7 +2,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo' alt="sym" max-width="50px"></a>
+<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo' alt="sym" max-width="25px"></a>
 </div>
 <div class="logo-text">
 <h3><i>Southwest Jiaotong University</i>, <div style="float:right;">2019-2023</div></h3> 
@@ -20,7 +20,7 @@ Engineering Laboratory of Integrated Transportation Big Data Application Technol
 </div>
 <div class="logo-text">
 <h3><i>Guangxi Minzu University</i>, <div style="float:right;">2016-2019</div></h3> 
-<ul style="line-height: 100%">
+<ul style="line-height: 50%">
 <li> <b>M.Sc. in Basic Mathematics <div style="float:right;">(Master)</div></b> </li>
 <li> College of Science </li>
 </ul>
@@ -34,7 +34,7 @@ Engineering Laboratory of Integrated Transportation Big Data Application Technol
 </div>
 <div class="logo-text">
 <h3><i>Zunyi Normal University</i>, <div style="float:right;">2012-2016</div></h3> 
-<ul style="line-height: 100%">
+<ul style="line-height: 50%">
 <li> <b>B.Sc. in Mathematics and Applied Mathematics </b> </li>
 <li> School of Mathematics</li>
 </ul>
