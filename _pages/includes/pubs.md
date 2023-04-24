@@ -4,23 +4,19 @@
 
 ## a. Multi-source information fusion
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div>
-<img src='images/pubs/A-500x300.png' alt="sym" width="100%" title="Multi-source information fusion.">
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085)
 
 **Pengfei Zhang**, Tianrui Li, Guoqiang, Wang, Chuan Luo, Hongmei Chen, Junbo Zhang, Dexian Wang, Zeng Yu.
 
-In this paper, our aim is to introduce the research progress of **multi-source information fusion (MSIF)** based on **rough set theory (RST)** including conventional models and techniques.
-
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
-	<li> Homogeneous and heterogeneous multi-source information fusion models. </li>
-	<li> Multi-view rough sets information fusion model. </li>
-	<li> Parallel computing information fusion model. </li>
-	<li> Incremental learning fusion technology.</li>
-	<li> Cluster ensembles fusion technology. </li>
-</ul>
+[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Homogeneous and heterogeneous multi-source information fusion models
+  - Multi-view rough sets information fusion model
+  - Parallel computing information fusion model
+  - Incremental learning fusion technology
+  - Cluster ensembles fusion technology
 </div>
 </div>
 
@@ -28,21 +24,20 @@ In this paper, our aim is to introduce the research progress of **multi-source i
 
 ## b. Outlier Detection
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Iinformation Fusion 2023</div>
-<img src='images/pubs/OD-500x300.png' alt="sym" width="100%" title="A unified framework of a multi-source information fusion model for outlier detection.">
+
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/OD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731)
 
 **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang
 
-
+[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
 This is a two-stage model that includes fusion of **multiple information sources** and **outlier detection** of fused data.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
-	<li>   The first stage uses information sets to construct uncertainty criteria for information source values and combines multiple information sources into a single information source based on the minimum uncertainty strategy. </li>
-	<li>  The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.</li>
-</ul>
+- The first stage uses information sets to construct uncertainty criteria for information source values and combines multiple information sources into a single information source based on the minimum uncertainty strategy. 
+- The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.
+
 </div>
 </div>
 
@@ -50,28 +45,17 @@ This is a two-stage model that includes fusion of **multiple information sources
 
 ## c. Feature Selection
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">TFS 2023 </div>
-<img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/)
 
 **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang
+[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>   
 
 - [![DOI](https://img.shields.io/badge/DOI-%2010.1109%2FTFUZZ.2023.3238803-green)](https://ieeexplore.ieee.org/document/10032146/) 
-- A minimal-separability-minimal-uncertainty-based unsupervised feature selection algorithm (UmSMU) is designed. The proposed UmSMU can sufficiently fuse multiple possibilistic information. 
-Meanwhile, the selected features maintain as much information as possible while minimizing the uncertainty of information
+- A minimal-separability-minimal-uncertainty-based unsupervised feature selection algorithm (UmSMU) is designed. The proposed UmSMU can sufficiently fuse multiple possibilistic information. Meanwhile, the selected features maintain as much information as possible while minimizing the uncertainty of information
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
-	<li>a. Possibility theory and possibiity distributions. 
-	</li>
-	<li>b. Information quality measures. 
-	</li>
-	<li>c. Unsupervised feature selection algorithm. 
-	</li>
-	<li>d. Fuzzy multiset and fuzzy information systems. 
-	</li>	
-</ul>
 </div>
 </div>
 	
