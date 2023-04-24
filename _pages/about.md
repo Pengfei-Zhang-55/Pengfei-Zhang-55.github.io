@@ -27,32 +27,32 @@ ___
 {% include_relative includes/news.md %}
 
 ___
----
+<span class='anchor' id='pubs'></span>
 {% include_relative includes/pubs.md %}
 
 
 ___
----
+<span class='anchor' id='awards'></span>
 {% include_relative includes/awards.md %}
 
 ___
----
+<span class='anchor' id='education'></span>
 {% include_relative includes/education.md %}
 
 ___
----
+<span class='anchor' id='talks'></span>
 {% include_relative includes/talks.md %}
 
 ___
----
+<span class='anchor' id='service'></span>
 {% include_relative includes/service.md %}
 
 ___
----
+<span class='anchor' id='works'></span>
 {% include_relative includes/works.md %}
 
 ___
----
+<span class='anchor' id='acknowledge'></span>
 {% include_relative includes/acknowledge.md %}
 
 
