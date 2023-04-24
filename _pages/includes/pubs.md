@@ -4,6 +4,7 @@ Representative work
 
 ## a. Multi-source information fusion
 
+div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -24,7 +25,8 @@ Representative work
 
 ## b. Outlier Detection
 
-<div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/OD-500x300.png' alt="sym" width="100%"></div></div>
+div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Information Fusion 2023</div><img src='images/pubs/OD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731)
@@ -44,7 +46,8 @@ This is a two-stage model that includes fusion of **multiple information sources
 
 ## c. Feature Selection
 
-<div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
+div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">TFS 2023</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/)
