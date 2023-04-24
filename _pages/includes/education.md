@@ -30,7 +30,7 @@ Engineering Laboratory of Integrated Transportation Big Data Application Technol
 
 <div class="logo-box">
 <div class="logo-img">
-<a href="http://www.zync.edu.cn/"><img src='images/logo/xZYNU_logo.png' alt="sym"></a>
+<a href="http://www.zync.edu.cn/"><img src='images/logo/ZYNU_logo.png' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>Zunyi Normal University</i>, <div style="float:right;">2012-2016</div></h3> 
