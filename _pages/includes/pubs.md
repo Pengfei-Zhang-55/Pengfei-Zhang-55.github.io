@@ -5,7 +5,7 @@ Representative work
 ## a. Multi-source information fusion
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-192x115.png' alt="sym" width="30%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-500x300.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source information fusion based on rough set theory: A review](https://www.sciencedirect.com/science/article/pii/S1566253520304085)
@@ -40,9 +40,7 @@ This is a two-stage model that includes fusion of **multiple information sources
 - The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.
 
 </div>
-
-
-
+</div>
 
 ## c. Feature Selection
 
