@@ -4,7 +4,7 @@ Representative work
 
 ## a. Multi-source information fusion
 
-
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-192x115.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -19,13 +19,13 @@ Representative work
   - Incremental learning fusion technology
   - Cluster ensembles fusion technology
 </div>
-
+</div>
 
 
 
 ## b. Outlier Detection
 
-div class='paper-box'>
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2023</div><img src='images/pubs/OD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,13 +40,13 @@ This is a two-stage model that includes fusion of **multiple information sources
 - The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.
 
 </div>
-</div>
+
 
 
 
 ## c. Feature Selection
 
-div class='paper-box'>
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">TFS 2023</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
