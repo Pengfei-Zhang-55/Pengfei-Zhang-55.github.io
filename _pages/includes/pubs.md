@@ -15,11 +15,11 @@
 In this paper, our aim is to introduce the research progress of **multi-source information fusion (MSIF)** based on **rough set theory (RST)** including conventional models and techniques.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
-	<li>- Homogeneous and heterogeneous multi-source information fusion models. </li>
-	<li>- Multi-view rough sets information fusion model. </li>
-	<li>- Parallel computing information fusion model. </li>
-	<li>- Incremental learning fusion technology.</li>
-	<li>- Cluster ensembles fusion technology. </li>
+	<li> Homogeneous and heterogeneous multi-source information fusion models. </li>
+	<li> Multi-view rough sets information fusion model. </li>
+	<li> Parallel computing information fusion model. </li>
+	<li> Incremental learning fusion technology.</li>
+	<li> Cluster ensembles fusion technology. </li>
 </ul>
 </div>
 </div>
@@ -29,7 +29,7 @@ In this paper, our aim is to introduce the research progress of **multi-source i
 ## b. Outlier Detection
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Iinformation 2023</div>
+<div class='paper-box-image'><div><div class="badge">Iinformation Fusion 2023</div>
 <img src='images/pubs/OD-500x300.png' alt="sym" width="100%" title="A unified framework of a multi-source information fusion model for outlier detection.">
 <div class='paper-box-text' markdown="1">
 [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731)
@@ -40,8 +40,8 @@ In this paper, our aim is to introduce the research progress of **multi-source i
 This is a two-stage model that includes fusion of **multiple information sources** and **outlier detection** of fused data.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
-	<li> -  The first stage uses information sets to construct uncertainty criteria for information source values and combines multiple information sources into a single information source based on the minimum uncertainty strategy. </li>
-	<li> - The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.</li>
+	<li>   The first stage uses information sets to construct uncertainty criteria for information source values and combines multiple information sources into a single information source based on the minimum uncertainty strategy. </li>
+	<li>  The second stage uses the Gaussian kernel method for possibility modeling based on the fused data to construct knowledge granules.</li>
 </ul>
 </div>
 </div>
@@ -74,7 +74,9 @@ Meanwhile, the selected features maintain as much information as possible while 
 </ul>
 </div>
 </div>
-# Publications
+	
+## Publications
+	
 2023
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI, IF: 4.157)
 -  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/). IEEE Transactions on Fuzzy Systems (TFS), 2023. (SCI, IF: 12.253)
