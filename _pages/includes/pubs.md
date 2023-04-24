@@ -1,4 +1,4 @@
-<h1 id="-selected-publications"><i class="fas fa-brain fa-spin"></i> Selected Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ">Google Scholar</a>]</div></h1>
+<h1 id="-selected-publications"><i class="fas fa-brain fa-spin"></i> Selected Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div></h1>
 
 † denotes equal contribution
 
@@ -74,7 +74,7 @@ Meanwhile, the selected features maintain as much information as possible while 
 </ul>
 </div>
 </div>
-
+# Publications
 2023
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI, IF: 4.157)
 -  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/). IEEE Transactions on Fuzzy Systems (TFS), 2023. (SCI, IF: 12.253)
