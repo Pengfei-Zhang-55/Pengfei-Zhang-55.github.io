@@ -11,9 +11,7 @@
 <i class="fas fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i>
 I am a PhD student at the <a href='https://scai.swjtu.edu.cn/web/page-module.html?mid=496DC5D75016E9F1'>School of Computing and Artificial Intelligence</a>, Southwest Jiaotong University, 
 under the supervision of <a href='https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm'>Tianrui Li (Prof.)</a>. 
-<br>
 Prior to this, I received the M. Sc. degree  at the <a href='https://www.gxmzu.edu.cn/'>Guangxi Minzu University</a>. 
-<br>
 My current research interests include granular computing, information fusion and data mining, especially on fuzzy set theory, 
 possibility theory, rough set theory and feature selection. 
 
