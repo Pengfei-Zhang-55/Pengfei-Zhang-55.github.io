@@ -2,7 +2,7 @@
 
 <div class='logo-box'>
 <div class='logo-box-image'>
-<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo.png' alt="sym" width="100%" ></a>
+<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo.png' alt="sym" width="10%" ></a>
 </div></div>
 <div class='logo-box-text'>
 <h3><i>Southwest Jiaotong University</i>, <div style="float:right;">2019-2023</div></h3> 
