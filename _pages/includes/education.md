@@ -20,7 +20,7 @@
 <div class="logo-text">
 <h3><i>Guangxi Minzu University</i>, <div style="float:right;">2016-2019</div></h3> 
 <ul style="line-height: 100%">
-<li> <b>M.Sc. in Basic Mathematics <div style="float:right;"</b> </li>
+<li> <b>M.Sc. in Basic Mathematics </b> </li>
 <li> College of Science </li>
 </ul>
 </div>
