@@ -47,8 +47,12 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    background-color: #F7F9F9;
+    padding:0.7em;
+    text-align:left;
+    margin-bottom:1em;
+    //padding: 2em 0 2em 0;
+
 
     .paper-box-image{
         justify-content: center;
@@ -61,12 +65,12 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -74,7 +78,7 @@
             max-width: 40%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
@@ -84,8 +88,91 @@
 
     }
 
+}
+
+.galery-logo a{text-align:justify; line-height: 0; text-decoration: none; }
+.galery-logo a img{padding:0; margin:8px;}
+
+.logo-box {
+    display: flex;
+    justify-content: left;
+    //text-align: justify;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+    padding:0;
+    //margin-bottom:1em;
+
+    //img {
+    //        //float: right;
+    //        text-align: right;
+    //        //vertical-align:text-top;
+    //        max-width: 40px;
+    //        //box-shadow: 3px 3px 6px #888;
+    //        object-fit: cover;
+    //        margin: 0 0 0 1em;
+    //    }
+    ////span {width: 700px;}
+    //span ul {
+    //        text-align: justify;
+    //        line-height: 100%;
+    //        //width: 700px;
+    //        //padding: 0 1em 0 0;
+    //        //margin: 0 1em 0 0;
+    //    }
+
+    .logo-img {
+        //float:right;
+        text-align: left;
+        order: 1;
+        width: 9%;
+        margin: 0;
+        padding: 0;
+        a img {
+            //vertical-align:text-top;
+            max-width: 40px;
+            //box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+            margin: 0;
+            padding: 0;
+        }
+    }
+    .logo-text{
+        //float:left;
+        //list-style-type:none;
+        text-align: left;
+        width: 91%;
+        order: 2;
+        padding: 0;
+        margin: 0;
+        ul {
+            max-width: 100%;
+            line-height: 120%;
+            text-align: left;
+            //padding: 0;
+            //margin: 0;
+        }
+    }
+
+    @include breakpoint($medium) {
+        .logo-img {
+            justify-content: left;
+            min-width: 10px;
+            max-width: 10%;
+            order: 1;
+        }
+        .logo-text{
+            justify-content: left;
+            padding-left: 1em;
+            max-width: 90%;
+            order: 2;
+        }
+    }
+
 
 }
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -104,6 +191,6 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background-color: rgba(0,32,48,0.7);
+    font-size: 1em;
 }
