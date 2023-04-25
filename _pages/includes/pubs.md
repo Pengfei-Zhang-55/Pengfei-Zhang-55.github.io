@@ -2,7 +2,7 @@
 
 Representative work
 
-## a. Multi-source information fusion
+## a. Multi-source Information Fusion
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-500x300.png' alt="sym" width="100%"></div></div>
