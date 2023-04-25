@@ -12,10 +12,8 @@ Representative work
 
 **Pengfei Zhang**, Tianrui Li, Guoqiang, Wang, Chuan Luo, Hongmei Chen, Junbo Zhang, Dexian Wang, Zeng Yu.
 
-[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
- - - [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2020.11.004-green)](https://www.sciencedirect.com/science/article/pii/S1566253520304085) 
-  - Homogeneous and heterogeneous multi-source information fusion models
-  - In this paper, our aim is to introduce the research progress of **Multi-source information** fusion based on **rough sets** including conventional models and techniques.
+ -  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2020.11.004-green)](https://www.sciencedirect.com/science/article/pii/S1566253520304085) 
+  - This paper is to introduce the research progress of **Multi-source information** fusion based on **rough sets** including conventional models and techniques.
 	
 </div>
 </div>
@@ -32,9 +30,8 @@ Representative work
 
 **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang
 
-[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>
 - [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.inffus.2022.12.027-green)](https://www.sciencedirect.com/science/article/pii/S1566253522002731) 
-- This is a two-stage model that includes fusion of **multiple information sources** and **outlier detection** of fused data.
+- This is a two-stage model that includes fusion of multiple information sources and **outlier detection** of fused data.
 
 </div>
 </div>
@@ -49,10 +46,8 @@ Representative work
 
 **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang
 	
-[**Topics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=auw5EKcAAAAJ&citation_for_view=auw5EKcAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='auw5EKcAAAAJ:ALROH1vI_8AC'></span></strong>   
-
 - [![DOI](https://img.shields.io/badge/DOI-%2010.1109%2FTFUZZ.2023.3238803-green)](https://ieeexplore.ieee.org/document/10032146/) 
-- A minimal-separability-minimal-uncertainty-based unsupervised feature selection algorithm (UmSMU) is designed. The proposed UmSMU can sufficiently fuse multiple possibilistic information. 
+- The main goal of most information quality (IQ)-based measures is to combine data provided by multiple information sources to enhance the quality of information essential for decision makers to perform their tasks.
 
 </div>
 </div>
