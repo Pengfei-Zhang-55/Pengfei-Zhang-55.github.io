@@ -45,7 +45,7 @@
 <a href="http://www.klyz.cn/"><img src='images/logo/KLMS_logo.png' alt="sym"></a>
 </div>
 <div class="logo-text">
-<h3><i>Kaili No.1 High School</i>, <div style="float:right;">2012-2016</div></h3> 
+<h3><i>Kaili No.1 High School</i>, <div style="float:right;">2009-2012</div></h3> 
 <ul style="line-height: 100%">
 <li> <b>student of science </b> </li>
 <li> Science Class</li>
