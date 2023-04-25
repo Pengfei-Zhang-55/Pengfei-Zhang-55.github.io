@@ -1,4 +1,4 @@
-# <i class="fas fa-brain fa-spin"></i>Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div>
+# <i class="fas fa-brain fa-spin"></i>Publications[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]
 
 ## Representative work
 
