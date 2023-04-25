@@ -52,7 +52,7 @@
 </div>
 </div>
 	
-## Journal and Conference  Publications
+##  Publications
 
 † denotes equal contribution
 
