@@ -7,7 +7,7 @@
 <li> IEEE Transactions on Cybernetics (TCYB)</li>
 <li> Information Fusion (INFFUS)</li>
 <li> International Journal of Approximate Reasoning (IJA)</li>
-<li>  Scientific Reports (IJA)</li>
+<li>  Scientific Reports </li>
 </ul>
 
 ### Conference Reviewer:
