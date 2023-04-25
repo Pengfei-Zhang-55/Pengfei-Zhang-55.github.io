@@ -1,8 +1,8 @@
-<h1 id="-selected-publications"><i class="fas fa-brain fa-spin"></i> Selected Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div></h1>
+<h1 id="-publications"><i class="fas fa-brain fa-spin"></i> Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=auw5EKcAAAAJ">Google Scholar</a>]</div></h1>
 
-Representative work
+## Representative work
 
-## a. Multi-source Information Fusion
+### a. Multi-source Information Fusion
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2021</div><img src='images/pubs/A-500x300.png' alt="sym" width="100%"></div></div>
@@ -20,7 +20,7 @@ Representative work
 
 
 
-## b. Outlier Detection
+### b. Outlier Detection
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Information Fusion 2023</div><img src='images/pubs/OD-500x300.png' alt="sym" width="100%"></div></div>
@@ -36,7 +36,7 @@ Representative work
 </div>
 </div>
 
-## c. Feature Selection
+### c. Feature Selection
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">TFS 2023</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
