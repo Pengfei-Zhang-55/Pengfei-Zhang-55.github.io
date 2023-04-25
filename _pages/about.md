@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 {% assign url_i10 = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_i10.json" %}
 
-
+---
 
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
