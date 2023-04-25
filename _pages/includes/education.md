@@ -1,10 +1,10 @@
 #  <i class="fas fa-user-graduate"></i> Educations
 
-<div class='logo-box'>
-<div class='logo-box-image'>
-<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo.png' alt="sym" width="10%" ></a>
-</div></div>
-<div class='logo-box-text'>
+<div class="logo-box">
+<div class="logo-img">
+<a href="https://www.swjtu.edu.cn/"><img src='images/logo/SWJTU_logo.png' alt="sym" max-width="50px" ></a>
+</div>
+<div class="logo-text">
 <h3><i>Southwest Jiaotong University</i>, <div style="float:right;">2019-2023</div></h3> 
 <ul> 
 <li> <b>PhD. in Computer Science and Technology <div style="float:right;">(expected)</div></b> </li>
