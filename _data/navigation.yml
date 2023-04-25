@@ -15,30 +15,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Talks"
+    url: "/#-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
-# main:
-#   - title: "About Me"
-#     url: "/pengfei-homepage.github.io/#about-me"
+  - title: "Work Experiences"
+    url: "/#-work-experiences"
 
-#   - title: "News"
-#     url: "/pengfei-homepage.github.io/#-news"
-
-#   - title: "Publications"
-#     url: "/pengfei-homepage.github.io/#-publications"
-
-#   - title: "Honors and Awards"
-#     url: "/pengfei-homepage.github.io/#-honors-and-awards"
-
-#   - title: "Educations"
-#     url: "/pengfei-homepage.github.io/#-educations"
-
-#   - title: "Invited Talks"
-#     url: "/pengfei-homepage.github.io/#-invited-talks"
-
-#   - title: "Internships"
-#     url: "/pengfei-homepage.github.io/#-internships"
+  - title: "Funding Acknowledgement"
+    url: "/#-funding-acknowledgement"
