@@ -6,7 +6,7 @@
 </div>
 <div class="logo-text">
 <h3><i>Southwest Jiaotong University</i>, <div style="float:right;">2019-2023</div></h3> 
-<ul> <ul style="line-height: 100%">
+<ul> 
 <li> <b>PhD. in Computer Science and Technology <div style="float:right;">(expected)</div></b> </li>
 <li> School of Computing and Artificial Intelligence</li>
 </ul>
