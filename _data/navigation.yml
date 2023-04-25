@@ -1,22 +1,44 @@
 # main links links
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
+
+#   - title: "News"
+#     url: "/#-news"
+
+#   - title: "Publications"
+#     url: "/#-publications"
+
+#   - title: "Honors and Awards"
+#     url: "/#-honors-and-awards"
+
+#   - title: "Educations"
+#     url: "/#-educations"
+
+#   - title: "Invited Talks"
+#     url: "/#-invited-talks"
+
+#   - title: "Internships"
+#     url: "/#-internships"
+
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/pengfei-homepage.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/pengfei-homepage.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/pengfei-homepage.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/pengfei-homepage.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/pengfei-homepage.github.io/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/pengfei-homepage.github.io/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/pengfei-homepage.github.io/#-internships"
