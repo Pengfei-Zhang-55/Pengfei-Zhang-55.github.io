@@ -57,6 +57,7 @@
 † denotes equal contribution
 
 2023
+- Dexian Wang, Tianrui Li, Wei, Huang, Zhipeng, Luo,  Ping, Deng, **Pengfei Zhang**,  Minbo, Ma, [A multi-view clustering algorithm based on deep semi-NMF](https://www.sciencedirect.com/science/article/pii/S1566253523002002). Information Fusion, 2023, 101884.
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI, IF: 4.157)
 -  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/). IEEE Transactions on Fuzzy Systems (TFS), 2023. (SCI, IF: 12.253)
 -  **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang, [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731). Information Fusion, 2023, 93: 192-208 (SCI, IF: 17.564) 
