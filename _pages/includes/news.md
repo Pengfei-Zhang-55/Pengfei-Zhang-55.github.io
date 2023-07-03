@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2023.07]: 🎉 One journal paper is accepted by <i> International Journal of Machine Learning and Cybernetics</i> (IF:5.6).
+	</li>
 	<li>[2023.06]: 🎉 One journal paper is accepted by <i> Information Fusion</i> (IF:17.564).
 	</li>
 	<li>[2023.01]: 🎉 One journal paper is accepted by <i> ACM Transactions on Knowledge Discovery from Data</i> (IF:4.157).
