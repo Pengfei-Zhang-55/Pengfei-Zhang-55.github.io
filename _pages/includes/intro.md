@@ -10,13 +10,13 @@
 <p style="text-align:justify">
 <i class="fas fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i>
 
-I work at Chengdu University of Traditional Chinese Medince   as a Distinguished associate researcher now in Chengdu, mainly engaged in the research of AI and the integration of traditional Chinese and Western medicine.
+I work at Chengdu University of Traditional Chinese Medince   as a Distinguished associate researcher now in Chengdu.
 If you are seeking any form of academic cooperation, please feel free to email me at zhangpengfei@cdutcm.edu.cn or feifeihappy55@163.com.
   
 I graduated from the <a href='https://scai.swjtu.edu.cn/web/page-module.html?mid=496DC5D75016E9F1'>School of Computing and Artificial Intelligence</a>, Southwest Jiaotong University with a Ph.D., 
 under the supervision of <a href='https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm'>Tianrui Li (Prof.)</a>. 
-Prior to this, I received the M. Sc. degree  at the <a href='https://www.gxmzu.edu.cn/'>Guangxi Minzu University</a>. 
-My current research interests include granular computing, information fusion and data mining, especially on outlier detection and feature selection. 
+Prior to this, I received the M. Sc. degree  at the <a href='https://www.gxmzu.edu.cn/'>Guangxi Minzu University</a>.  My research interests are broad, including  granular computing, information fusion and data mining, 
+especially on outlier detection and feature selection. Now, I mainly engaged in the research of AI and the integration of traditional Chinese and Western medicine.
 
 <i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>
 </p>
