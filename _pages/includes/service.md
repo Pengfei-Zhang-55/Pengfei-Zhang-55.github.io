@@ -6,6 +6,7 @@
 <li> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 <li> IEEE Transactions on Cybernetics (TCYB)</li>
 <li> Information Fusion (INFFUS)</li>
+<li> Pattern Recognition (PR)</li> 
 <li> International Journal of Approximate Reasoning (IJA)</li>
 <li>  Scientific Reports </li>
 </ul>
