@@ -57,6 +57,7 @@
 † denotes equal contribution
 
 2023
+Guoqiang Wang, **Pengfei Zhang**, Dexian Wang, Hongmei Chen, Tianrui Li, [Fast attribute reduction via inconsistent equivalence classes for large-scale data](https://www.sciencedirect.com/science/article/abs/pii/S0888613X23001706), 163(2023),  109039. (SCI)
 - Zhixuan Deng, Tianrui Li, Keyu Liu, **Pengfei Zhang**, Dayong Deng, [Feature selection based on probability and mathematical expectation](https://link.springer.com/article/10.1007/s13042-023-01920-8#citeas). International Journal of Machine Learning and Cybernetics, 2023. (SCI)
 - Dexian Wang, Tianrui Li, Wei, Huang, Zhipeng, Luo,  Ping, Deng, **Pengfei Zhang**,  Minbo, Ma, [A multi-view clustering algorithm based on deep semi-NMF](https://www.sciencedirect.com/science/article/pii/S1566253523002002). Information Fusion, 2023, 101884. (SCI)
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI)
