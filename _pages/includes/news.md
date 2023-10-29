@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2023.10]: 🎉荣获2023年度ACM Chengdu Chapter优秀博士论文奖（提名奖）</i>
+	</li>
 	<li>[2023.10]: 🎉One journal paper is published by <i> International Journal of Approximate Reasoning</i>  (IF:3.9).
 	</li>
 	<li>[2023.08]: 🎉入选中国人工智能学会机器学习专业委员会通信委员.
