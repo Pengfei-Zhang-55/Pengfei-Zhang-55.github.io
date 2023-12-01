@@ -1,6 +1,6 @@
 # <i class="fas fa-donate"></i> Funding Acknowledgement
 
-N/A
+1. China Postdoctoral Science Foundation  (2023M740383)
 
 <br />
 <p style="text-align: right">
