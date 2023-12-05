@@ -17,6 +17,6 @@
 	</li>
 	<li>[2023.01]: 🎉 One journal paper is accepted by <i> ACM Transactions on Knowledge Discovery from Data</i> (IF:4.157).
 	</li>
-	<li>[2022.11]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:12.253)
+	<li>[2022.11]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:11.9)
 	</li>
 </ul>
