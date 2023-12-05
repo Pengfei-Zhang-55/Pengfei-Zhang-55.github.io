@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2023.11]: 🎉  当选为中国中医药信息学会人工智能分会理事.
+	</li>
 	<li>[2023.11]: 🎉  One journal paper is published by <i> Information Fusion</i> (IF:18.6).
 	</li>
 	<li>[2023.10]: 🎉 荣获2023年度ACM Chengdu Chapter优秀博士论文奖（提名奖).
