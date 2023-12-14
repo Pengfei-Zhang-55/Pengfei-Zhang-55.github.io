@@ -1,7 +1,7 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	<li>[2023.12]: 🎉  西南交通大学2023年度优秀博士论文公示
+	<li>[2023.12]: 🎉  荣获西南交通大学2023年度优秀博士论文
 	</li>
 	<li>[2023.11]: 🎉  当选为中国中医药信息学会人工智能分会理事.
 	</li>
