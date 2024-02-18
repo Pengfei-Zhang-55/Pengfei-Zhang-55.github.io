@@ -57,6 +57,7 @@
 † denotes equal contribution
 
 2024
+-  **Pengfei Zhang**, Dexian Wang, Zheng Yu, Yujie Zhang, Tao Jiang, Tianrui Li, [A multi-scale information fusion-based multiple correlations for unsupervised attribute selection](https://linkinghub.elsevier.com/retrieve/pii/S156625352400054X). Information Fusion,106(2024) 102276. (SCI)
 - Tengyu Yin, Hongmei Chen, Jihong Wan, **Pengfei Zhang**, Shi-Jinn Horng, Tianrui Li, [Exploiting feature multi-correlations for multilabel feature selection in robust multi-neighborhood fuzzy 
  covering space](https://www.sciencedirect.com/science/article/pii/S1566253523004669).Information Fusion, 104(2024) 102150. (SCI)
 
