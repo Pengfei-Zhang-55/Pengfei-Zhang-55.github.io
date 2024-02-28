@@ -17,7 +17,8 @@ I graduated from the <a href='https://scai.swjtu.edu.cn/web/page-module.html?mid
 under the supervision of <a href='https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm'>Tianrui Li (Prof.)</a>. 
 Prior to this, I received the M. Sc. degree  at the <a href='https://www.gxmzu.edu.cn/'>Guangxi Minzu University</a>.  My research interests are broad, including  granular computing, information fusion and data mining, 
 especially on outlier detection and feature selection. Now, I mainly engaged in the research of AI and the integration of traditional Chinese and Western medicine.
-
+<i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>
+</p>
 
 
 - <i>Citation statistics:</i>
