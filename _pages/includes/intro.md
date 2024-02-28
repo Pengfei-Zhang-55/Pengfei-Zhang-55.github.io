@@ -18,10 +18,6 @@ under the supervision of <a href='https://faculty.swjtu.edu.cn/litianrui/zh_CN/i
 Prior to this, I received the M. Sc. degree  at the <a href='https://www.gxmzu.edu.cn/'>Guangxi Minzu University</a>.  My research interests are broad, including  granular computing, information fusion and data mining, 
 especially on outlier detection and feature selection. Now, I mainly engaged in the research of AI and the integration of traditional Chinese and Western medicine.
 
-<a href="https://info.flagcounter.com/dlv4"><img src="https://s11.flagcounter.com/count2/dlv4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>
-</p>
 
 
 - <i>Citation statistics:</i>
