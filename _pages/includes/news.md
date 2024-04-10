@@ -2,6 +2,7 @@
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
 	<li>[2024.04]: 🎉  One journal paper is published by <i> International Journal of Fuzzy Systems</i> (IF:4.3).
+	</li>
 	<li>[2024.02]: 🎉  One journal paper is published by <i> Information Fusion</i> (IF:18.6).
 	</li>
 	<li>[2023.12]: 🎉  荣获西南交通大学2023年度优秀博士论文
