@@ -57,6 +57,8 @@
 † denotes equal contribution
 
 2024
+
+- Zhixuan Deng, Tianrui Li, Dayong Deng, Keyu Liu, Zhipeng Luo, **Pengfei Zhang**,[Feature Selection for Handling Label Ambiguity using Weighted Label-fuzzy Relevancy and Redundancy](https://ieeexplore.ieee.org/document/10528913), IEEE Transactions on Fuzzy Systems (TFS), 2024. (SCI)
 - Dayong Deng, Tong Chen, Zhixuan Deng†, Keyu Liu, **Pengfei Zhang†**, [Dynamic Feature Selection Based on F-fuzzy Rough Set for Label Distribution Learning](https://link.springer.com/article/10.1007/s40815-024-01715-1)),  International Journal of Fuzzy Systems, DOI: https://doi.org/10.1007/s40815-024-01715-1. (SCI)
 -  **Pengfei Zhang**, Dexian Wang, Zheng Yu, Yujie Zhang, Tao Jiang, Tianrui Li, [A multi-scale information fusion-based multiple correlations for unsupervised attribute selection](https://linkinghub.elsevier.com/retrieve/pii/S156625352400054X). Information Fusion,106(2024) 102276. (SCI)
 - Tengyu Yin, Hongmei Chen, Jihong Wan, **Pengfei Zhang**, Shi-Jinn Horng, Tianrui Li, [Exploiting feature multi-correlations for multilabel feature selection in robust multi-neighborhood fuzzy 
