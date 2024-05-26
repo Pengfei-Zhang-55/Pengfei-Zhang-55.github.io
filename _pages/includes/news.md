@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2024.05]: 🎉  One journal paper is published by <i> International Journal of Fuzzy Systems</i> (IF:4.3).
+	</li>
 	<li>[2024.05]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:11.9)
 	</li>
 	<li>[2024.04]: 🎉  One journal paper is published by <i> International Journal of Fuzzy Systems</i> (IF:4.3).
