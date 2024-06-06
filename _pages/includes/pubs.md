@@ -58,9 +58,9 @@
 
 2024
 -  Dexian Wang, Tianrui Li, Ping Deng, Zhipeng Luo, **Pengfei Zhang††**, Keyu Liu, Wei Huang, [DNSRF: Deep Network-based Semi-NMF Representation Framework](https://dl.acm.org/doi/abs/10.1145/3670408). ACM Transactions on Intelligent Systems and Technology, doi.org/10.1145/3670408, 2024.
-- Gangqiang Zhang, Jingjing Hu, **Pengfei Zhang†**, [Leveraging Local Density Decision Labeling and Fuzzy Dependency for Semi-supervised Feature Selection](https://link.springer.com/article/10.1007/s40815-024-01740-0).International Journal of Fuzzy Systems, DOI:10.1007/s40815-024-01740-0,2024.(SCI)
+- Gangqiang Zhang, Jingjing Hu, **Pengfei Zhang††**, [Leveraging Local Density Decision Labeling and Fuzzy Dependency for Semi-supervised Feature Selection](https://link.springer.com/article/10.1007/s40815-024-01740-0).International Journal of Fuzzy Systems, DOI:10.1007/s40815-024-01740-0,2024.(SCI)
 - Zhixuan Deng, Tianrui Li, Dayong Deng, Keyu Liu, Zhipeng Luo, **Pengfei Zhang**,[Feature Selection for Handling Label Ambiguity using Weighted Label-fuzzy Relevancy and Redundancy](https://ieeexplore.ieee.org/document/10528913), IEEE Transactions on Fuzzy Systems (TFS), DOI: 10.1109/TFUZZ.2024.3399617, 2024. (SCI)
-- Dayong Deng, Tong Chen, Zhixuan Deng†, Keyu Liu, **Pengfei Zhang†**, [Dynamic Feature Selection Based on F-fuzzy Rough Set for Label Distribution Learning](https://link.springer.com/article/10.1007/s40815-024-01715-1)),  International Journal of Fuzzy Systems, DOI: https://doi.org/10.1007/s40815-024-01715-1, 2024. (SCI)
+- Dayong Deng, Tong Chen, Zhixuan Deng††, Keyu Liu, **Pengfei Zhang††**, [Dynamic Feature Selection Based on F-fuzzy Rough Set for Label Distribution Learning](https://link.springer.com/article/10.1007/s40815-024-01715-1)),  International Journal of Fuzzy Systems, DOI: https://doi.org/10.1007/s40815-024-01715-1, 2024. (SCI)
 -  **Pengfei Zhang**, Dexian Wang, Zheng Yu, Yujie Zhang, Tao Jiang, Tianrui Li, [A multi-scale information fusion-based multiple correlations for unsupervised attribute selection](https://linkinghub.elsevier.com/retrieve/pii/S156625352400054X). Information Fusion,106(2024) 102276. (SCI)
 - Tengyu Yin, Hongmei Chen, Jihong Wan, **Pengfei Zhang**, Shi-Jinn Horng, Tianrui Li, [Exploiting feature multi-correlations for multilabel feature selection in robust multi-neighborhood fuzzy 
  covering space](https://www.sciencedirect.com/science/article/pii/S1566253523004669).Information Fusion, 104(2024) 102150. (SCI)
@@ -72,7 +72,7 @@
 -  Dexian Wang, Tianrui Li, Ping Deng, Fan Zhang, Wei Huang, **Pengfei Zhang**, Jia Liu, [A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization](https://dl.acm.org/doi/10.1145/3584862). ACM Transactions on Knowledge Discovery from Data (TKDD), 2023. (SCI)
 -  **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Zhixuan Deng, Guoqiang Wang, Dexian Wang, Fan Zhang. [A Possibilistic Information Fusion-Based Unsupervised Feature Selection Method Using Information Quality Measures](https://ieeexplore.ieee.org/document/10032146/). IEEE Transactions on Fuzzy Systems (TFS), 2023. (SCI)
 -  **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Dexian Wang, Pei Lai, Fan Zhang, [A multi-source information fusion model for outlier detection](https://www.sciencedirect.com/science/article/pii/S1566253522002731). Information Fusion, 2023, 93: 192-208 (SCI) 
--  Feifei Yang, **Pengfei Zhang†**. [MSIF: Multi-source information fusion based on information sets](https://dl.acm.org/doi/10.3233/JIFS-222210). Journal of Intelligent & Fuzzy Systems, 44 (2023) 4103–4112. (SCI)
+-  Feifei Yang, **Pengfei Zhang††**. [MSIF: Multi-source information fusion based on information sets](https://dl.acm.org/doi/10.3233/JIFS-222210). Journal of Intelligent & Fuzzy Systems, 44 (2023) 4103–4112. (SCI)
 
 2022 
 - **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Chuan Luo, Guoqiang Wang, Jia Liu, Shengdong Du. [A data-level fusion model for unsupervised attribute selection in multi-source homogeneous data](https://www.sciencedirect.com/science/article/pii/S1566253521002256). Information Fusion, 2022, 80: 87-103. (SCI)
@@ -91,15 +91,15 @@
 - Guoqiang Wang, Tianrui Li, **Pengfei Zhang**, Qianqian Huang, Hongmei Chen. [Double-local rough sets for efficient data mining](https://www.sciencedirect.com/science/article/pii/S0020025521004539). Information Sciences, 2021, 571: 475-498. (SCI)
 - Zhong Yuan, Hongmei Chen, Peng Xie, **Pengfei Zhang**, Jia Liu, Tianrui Li. [Attribute reduction methods in fuzzy rough set theory: An overview, comparative experiments, and new directions](https://www.sciencedirect.com/science/article/pii/S1568494621002763). Applied Soft Computing, 2021, 107: 107353. (SCI)
 - Gangqiang Zhang, Zhaowen Li, **Pengfei Zhang†** , Ningxin Xie. [Information structures and uncertainty in an image information system](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs191628). Journal of Intelligent & Fuzzy Systems, 2021, 40(1): 295-317. (SCI)
-- Feifei Yang, **Pengfei Zhang†**. [Using 2-tuple Linguistic Model for Multi-source Set-valued Information Fusion](https://ieeexplore.ieee.org/document/9755431), 2021 16th International Conference on Intelligent Systems and Knowledge Engineering (ISKE), IEEE, 2021: 557‐560. (EI)
+- Feifei Yang, **Pengfei Zhang††**. [Using 2-tuple Linguistic Model for Multi-source Set-valued Information Fusion](https://ieeexplore.ieee.org/document/9755431), 2021 16th International Conference on Intelligent Systems and Knowledge Engineering (ISKE), IEEE, 2021: 557‐560. (EI)
 
 2020
 - Jiasheng Zeng,  Zhaowen Li, **Pengfei Zhang†**, Pei, Wang. [Information structures and uncertainty measures in a hybrid information system: Gaussian kernel method](https://link.springer.com/article/10.1007/s40815-019-00779-8). International Journal of Fuzzy Systems, 2020, 22(1): 212-231. (SCI) 
-- Zhaowen Li, **Pengfei Zhang†**, Ningxin, Xie, Gangqiang, Zhang, Ching-Feng, Wen. [A novel three-way decision method in a hybrid information system with images and its application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S095219762030097X). Engineering Applications of Artificial Intelligence, 2020, 92: 103651. (SCI)
+- Zhaowen Li, **Pengfei Zhang††**, Ningxin, Xie, Gangqiang, Zhang, Ching-Feng, Wen. [A novel three-way decision method in a hybrid information system with images and its application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S095219762030097X). Engineering Applications of Artificial Intelligence, 2020, 92: 103651. (SCI)
 
 2019
-- Zhaowen Li, **Pengfei Zhang**, Xun Ge, Ningxin Xie, Gangqiang Zhang, Ching-Feng Wen. [Uncertainty measurement for a fuzzy relation information system](https://ieeexplore.ieee.org/document/8637009). IEEE Transactions on Fuzzy Systems, 2019, 27(12): 2338-2352. (SCI) 
+- Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang, Ching-Feng Wen. [Uncertainty measurement for a fuzzy relation information system](https://ieeexplore.ieee.org/document/8637009). IEEE Transactions on Fuzzy Systems, 2019, 27(12): 2338-2352. (SCI) 
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang†**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
-- Zhaowen Li, **Pengfei Zhang**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+- Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
 
