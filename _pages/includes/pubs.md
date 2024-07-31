@@ -57,7 +57,9 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2024
--  Dexian Wang, Tianrui Li, Ping Deng, Zhipeng Luo, **Pengfei Zhang††**, Keyu Liu, Wei Huang, [DNSRF: Deep Network-based Semi-NMF Representation Framework](https://dl.acm.org/doi/abs/10.1145/3670408). ACM Transactions on Intelligent Systems and Technology, doi.org/10.1145/3670408, 2024.(SCI)
+-  Jia Liu, Nijing Yang, Yanli Lee, Wei Huang††, Yajun Du, Tianrui Li, **Pengfei Zhang††**, [FedDAF: Federated Deep Attention Fusion for Dangerous Driving Behavior
+Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622). Information Fusion, 2024, 112: 102584. 
+-  Dexian Wang, Tianrui Li, Ping Deng, Zhipeng Luo, **Pengfei Zhang††**, Keyu Liu, Wei Huang, [DNSRF: Deep Network-based Semi-NMF Representation Framework](https://dl.acm.org/doi/abs/10.1145/3670408). ACM Transactions on Intelligent Systems and Technology, doi.org/10.1145/3670408, 2024. (SCI)
 - Gangqiang Zhang, Jingjing Hu, **Pengfei Zhang††**, [Leveraging Local Density Decision Labeling and Fuzzy Dependency for Semi-supervised Feature Selection](https://link.springer.com/article/10.1007/s40815-024-01740-0).International Journal of Fuzzy Systems, DOI:10.1007/s40815-024-01740-0,2024.(SCI)
 - Zhixuan Deng, Tianrui Li, Dayong Deng, Keyu Liu, Zhipeng Luo, **Pengfei Zhang**,[Feature Selection for Handling Label Ambiguity using Weighted Label-fuzzy Relevancy and Redundancy](https://ieeexplore.ieee.org/document/10528913), IEEE Transactions on Fuzzy Systems (TFS), DOI: 10.1109/TFUZZ.2024.3399617, 2024. (SCI)
 - Dayong Deng, Tong Chen, Zhixuan Deng††, Keyu Liu, **Pengfei Zhang††**, [Dynamic Feature Selection Based on F-fuzzy Rough Set for Label Distribution Learning](https://link.springer.com/article/10.1007/s40815-024-01715-1)),  International Journal of Fuzzy Systems, DOI: https://doi.org/10.1007/s40815-024-01715-1, 2024. (SCI)
