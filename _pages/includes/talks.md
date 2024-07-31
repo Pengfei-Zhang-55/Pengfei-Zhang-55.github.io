@@ -1,5 +1,5 @@
 # <i class="fas fa-comment-dots"></i> Talks
-- *2024.7.19*, [The Local Chair of the FLINS-ISKE 2024 Conference](https://eventos.ucm.es/96182/section/51462/flins-iske-2024.html).
+- *2024.7.16-2024.7.21*, [The Local Chair of the FLINS-ISKE 2024 Conference](https://eventos.ucm.es/96182/section/51462/flins-iske-2024.html).
 - *2023.12.2*, [闽南师范大学数学学院学术报告](https://math.mnnu.edu.cn/info/1101/7033.htm)
 - *2023.11.24*, 2023年四川省博士后医工交叉学术交流主持. 
 - *2023.7.11*, [西南财经大学"双优"论坛报告](https://it.swufe.edu.cn/info/1096/8317.htm). 
