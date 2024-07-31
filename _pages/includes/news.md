@@ -1,6 +1,10 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2024.07]: 🎉  入选为中国粒计算与知识发现专委会委员.
+	</li>
+	<li>[2024.07]: 🎉  One journal paper is published by <i> Information Fusion</i> (IF:14.7).
+	</li>
 	<li>[2024.06]: 🎉  One journal paper is published by <i> ACM Transactions on Intelligent Systems and Technology</i> (IF:5.0).
 	</li>
 	<li>[2024.05]: 🎉  One journal paper is published by <i> International Journal of Fuzzy Systems</i> (IF:4.3).
