@@ -1,7 +1,7 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	<li>[2024.07]: 🎉  A book is Officially  Available on IGI Global.
+	<li>[2024.08]: 🎉  A book is Officially  Available on IGI Global.
 	</li>
 	<li>[2024.07]: 🎉  入选为中国粒计算与知识发现专委会委员.
 	</li>
