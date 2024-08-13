@@ -57,6 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2024
+- **Pengfei Zhang††**, Dexian Wang, Tao Jiang, [Multi-Source Information Fusion Models and Methods Based on Granular Computing](https://www.igi-global.com/chapter/multi-source-information-fusion-models-and-methods-based-on-granular-computing/353287). Granular Computing and Big Data Advancements. IGI Global, 2024. 50-77. 
 -  Jia Liu, Nijing Yang, Yanli Lee, Wei Huang††, Yajun Du, Tianrui Li, **Pengfei Zhang††**, [FedDAF: Federated Deep Attention Fusion for Dangerous Driving Behavior
 Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622). Information Fusion, 2024, 112: 102584. 
 -  Dexian Wang, Tianrui Li, Ping Deng, Zhipeng Luo, **Pengfei Zhang††**, Keyu Liu, Wei Huang, [DNSRF: Deep Network-based Semi-NMF Representation Framework](https://dl.acm.org/doi/abs/10.1145/3670408). ACM Transactions on Intelligent Systems and Technology, doi.org/10.1145/3670408, 2024. (SCI)
