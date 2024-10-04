@@ -2,6 +2,7 @@
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
 	<li>[2024.10]: 🎉  One journal paper is published by <i> Knowledge-Based Systems</i> (IF:7.2).
+	</li>
 	<li>[2024.10]: 🎉  One journal paper is published by <i> Applied Soft Computing </i> (IF:7.2).
 	</li>
 	<li>[2024.08]: 🎉  A book is Officially  Available on IGI Global.
