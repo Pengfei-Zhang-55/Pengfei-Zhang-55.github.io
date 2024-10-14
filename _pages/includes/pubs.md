@@ -57,9 +57,11 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2024
-- **Pengfei Zhang††**, Dexian Wang, Tao Jiang, [Multi-Source Information Fusion Models and Methods Based on Granular Computing](https://www.igi-global.com/chapter/multi-source-information-fusion-models-and-methods-based-on-granular-computing/353287). Granular Computing and Big Data Advancements. IGI Global, 2024. 50-77. 
+- Dexian Wang, **Pengfei Zhang††**, Ping Deng, Qiaofeng Wu, Wei Chen, Tao Jiang, Wei Huang, Tianrui Li, [An autoencoder-like deep NMF representation learning algorithm for clustering](https://www.sciencedirect.com/science/article/pii/S0950705124012310). Knowledge-Based Systems, 2024. (SCI)
+- Yongming Luo,Jingjing Hu,Gangqiang Zhang,**Pengfei Zhang††**, Ying Xie, Zhaomin Kuang,Xingji Zeng, Shushi Li, [A dissolved oxygen levels prediction method based on single-hidden layer feedforward neural network using neighborhood information metric](https://www.sciencedirect.com/science/article/pii/S1568494624011025).  Applied Soft Computing, 2024. (SCI)
+- **Pengfei Zhang††**, Dexian Wang, Tao Jiang, [Multi-Source Information Fusion Models and Methods Based on Granular Computing](https://www.igi-global.com/chapter/multi-source-information-fusion-models-and-methods-based-on-granular-computing/353287). Granular Computing and Big Data Advancements. IGI Global, 2024. 50-77. (Book)
 -  Jia Liu, Nijing Yang, Yanli Lee, Wei Huang††, Yajun Du, Tianrui Li, **Pengfei Zhang††**, [FedDAF: Federated Deep Attention Fusion for Dangerous Driving Behavior
-Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622). Information Fusion, 2024, 112: 102584. 
+Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622). Information Fusion, 2024, 112: 102584.  (SCI)
 -  Dexian Wang, Tianrui Li, Ping Deng, Zhipeng Luo, **Pengfei Zhang††**, Keyu Liu, Wei Huang, [DNSRF: Deep Network-based Semi-NMF Representation Framework](https://dl.acm.org/doi/abs/10.1145/3670408). ACM Transactions on Intelligent Systems and Technology, doi.org/10.1145/3670408, 2024. (SCI)
 - Gangqiang Zhang, Jingjing Hu, **Pengfei Zhang††**, [Leveraging Local Density Decision Labeling and Fuzzy Dependency for Semi-supervised Feature Selection](https://link.springer.com/article/10.1007/s40815-024-01740-0).International Journal of Fuzzy Systems, DOI:10.1007/s40815-024-01740-0,2024.(SCI)
 - Zhixuan Deng, Tianrui Li, Dayong Deng, Keyu Liu, Zhipeng Luo, **Pengfei Zhang**,[Feature Selection for Handling Label Ambiguity using Weighted Label-fuzzy Relevancy and Redundancy](https://ieeexplore.ieee.org/document/10528913), IEEE Transactions on Fuzzy Systems (TFS), DOI: 10.1109/TFUZZ.2024.3399617, 2024. (SCI)
