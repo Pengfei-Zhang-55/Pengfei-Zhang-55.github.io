@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2024.10]: 🎉  One journal paper is published by <i> Information Fusion</i> (IF:14.7).
+	</li>
 	<li>[2024.10]: 🎉  当选为四川省城乡数智中医委员会副秘书长.
 	</li>
 	<li>[2024.10]: 🎉  One journal paper is published by <i> Knowledge-Based Systems</i> (IF:7.2).
