@@ -56,6 +56,10 @@
 
 † denotes equal contribution， †† denotes Corresponding Author
 
+2025
+- Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479.
+
+
 2024
 - Dexian Wang, **Pengfei Zhang††**, Ping Deng, Qiaofeng Wu, Wei Chen, Tao Jiang, Wei Huang, Tianrui Li, [An autoencoder-like deep NMF representation learning algorithm for clustering](https://www.sciencedirect.com/science/article/pii/S0950705124012310). Knowledge-Based Systems, 2024. (SCI)
 - Yongming Luo,Jingjing Hu,Gangqiang Zhang,**Pengfei Zhang††**, Ying Xie, Zhaomin Kuang,Xingji Zeng, Shushi Li, [A dissolved oxygen levels prediction method based on single-hidden layer feedforward neural network using neighborhood information metric](https://www.sciencedirect.com/science/article/pii/S1568494624011025).  Applied Soft Computing, 2024. (SCI)
