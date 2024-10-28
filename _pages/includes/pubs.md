@@ -57,7 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
-- Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479.
+- Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479. (SCI)
 
 
 2024
