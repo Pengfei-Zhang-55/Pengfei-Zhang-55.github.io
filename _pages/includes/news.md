@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2024.12]: 🎉  One journal paper is published by <i> Applied Soft Computing </i> (IF:7.2).
+	</li>
 	<li>[2024.11]: 🎉  One journal paper is published by <i> Applied Intelligence</i> (IF:3.4).
 	</li>
 	<li>[2024.11]: 🎉  入选为四川省计算机学会青少年信息科技专委会.
