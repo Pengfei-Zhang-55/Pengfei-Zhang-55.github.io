@@ -61,6 +61,7 @@
 - Qinli Zhang, **Pengfei Zhang††**, Tianrui Li, [Information fusion for large-scale multi-source data based on the Dempster-Shafer evidence theory](https://www.sciencedirect.com/science/article/pii/S1566253524005323). Information Fusion, 115(2025) 102754. (SCI)
 
 2024
+- Zhixuan Deng, Tianrui Li, **Pengfei Zhang**, Keyu Liu, Zhong Yuan, Dayong Deng, [Feature selection for label distribution learning based on neighborhood fuzzy rough sets](https://www.sciencedirect.com/science/article/pii/S1568494624013164). Applied Soft Computing, 2024. (SCI)
 - Dexian Wang, **Pengfei Zhang††**, Ping Deng, Qiaofeng Wu, Wei Chen, Tao Jiang, Wei Huang, Tianrui Li, [An autoencoder-like deep NMF representation learning algorithm for clustering](https://www.sciencedirect.com/science/article/pii/S0950705124012310). Knowledge-Based Systems, 2024. (SCI)
 - Yongming Luo,Jingjing Hu,Gangqiang Zhang,**Pengfei Zhang††**, Ying Xie, Zhaomin Kuang,Xingji Zeng, Shushi Li, [A dissolved oxygen levels prediction method based on single-hidden layer feedforward neural network using neighborhood information metric](https://www.sciencedirect.com/science/article/pii/S1568494624011025).  Applied Soft Computing, 2024. (SCI)
 - **Pengfei Zhang††**, Dexian Wang, Tao Jiang, [Multi-Source Information Fusion Models and Methods Based on Granular Computing](https://www.igi-global.com/chapter/multi-source-information-fusion-models-and-methods-based-on-granular-computing/353287). Granular Computing and Big Data Advancements. IGI Global, 2024. 50-77. (Book)
