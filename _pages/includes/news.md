@@ -1,7 +1,6 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	</li>
 	<li>[2024.12]: 🎉  I was elected as the guest editor of Frontiers in Artificial Intelligence </i>.
 	</li>
 	<li>[2024.12]: 🎉  One journal paper is published by <i> International Journal of Machine Learning and Cybernetics </i> (IF:3.1).
