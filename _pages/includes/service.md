@@ -2,7 +2,7 @@
 
 ### Journal Editor:
 <ul style="line-height: 120%">
-<li> Frontiers in Artificial Intelligence (Special issue: The Applications of AI Techniques in Medical Data Processing)</li>
+<li> Frontiers in Artificial Intelligence (Special issue: The Applications of AI Techniques in Medical Data Processing (Link: https://www.frontiersin.org/research-topics/69066/the-applications-of-ai-techniques-in-medical-data-processing))</li>
 </ul>
 
 
