@@ -1,6 +1,11 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	</li>
+	<li>[2024.12]: 🎉  One journal paper is published by <i> International Journal of Machine Learning and Cybernetics </i> (IF:3.1).
+	</li>
+	<li>[2024.12]: 🎉  One journal paper is published by <i> Neural Processing Letters </i> (IF:2.6, CCF C).
+	</li>
 	<li>[2024.12]: 🎉  One journal paper is published by <i> Applied Soft Computing </i> (IF:7.2).
 	</li>
 	<li>[2024.11]: 🎉  One journal paper is published by <i> Applied Intelligence</i> (IF:3.4).
