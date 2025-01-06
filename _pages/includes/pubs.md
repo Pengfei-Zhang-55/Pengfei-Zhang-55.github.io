@@ -57,6 +57,8 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+
+- Xiabing Zhang, Yuqin Li, **Pengfei Zhang††**, Dexian Wang, Guang Yao, Peng Xu††, [Central-Peripheral Nervous System Activation in Exoskeleton Modes: A Granger Causality Analysis via EEG-EMG Fusion](https://www.sciencedirect.com/science/article/pii/S0957417424031786). Expert Systems with Applications, Available online 3 January 2025, 126311. (SCI)
 - Yu Tang, Lilan Peng, Zhendong Wu, Jie Hu, **Pengfei Zhang** & Hongchun Lu, [FAHC: frequency adaptive hypergraph constraint for collaborative filtering](https://link.springer.com/article/10.1007/s10489-024-06111-8?utm_source=rct_congratemailt). Applied Intelligence, (2025) 55:242. (SCI)
 - Zhixuan Deng, Tianrui Li, **Pengfei Zhang**, Keyu Liu, Zhong Yuan, Dayong Deng, [Feature selection for label distribution learning based on neighborhood fuzzy rough sets](https://www.sciencedirect.com/science/article/pii/S1568494624013164). Applied Soft Computing, 169 (2025) 112542. (SCI)
 - Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479. (SCI)
