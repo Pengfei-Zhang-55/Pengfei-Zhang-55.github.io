@@ -11,6 +11,7 @@
 <ul style="line-height: 120%">
 <li> IEEE Transaction on Fuzzy Systems (TFS)</li>
 <li> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+<li> IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
 <li>  IEEE Transactions on Emerging topics in Computational Intelligence (TETCI)</li>
 <li> IEEE Transactions on Cybernetics (TCYB)</li>
 <li> Information Fusion (INFFUS)</li>
