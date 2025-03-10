@@ -67,6 +67,8 @@
 - Qinli Zhang, **Pengfei Zhang††**, Tianrui Li, [Information fusion for large-scale multi-source data based on the Dempster-Shafer evidence theory](https://www.sciencedirect.com/science/article/pii/S1566253524005323). Information Fusion, 115(2025) 102754. (SCI)
 
 2024
+
+- Yaqin Fu, Lin Xu, Yujie Zhang, Linshuai Zhang, **Pengfei Zhang**, Lu Cao, Tao Jiang††. [Classification and diagnosis model for Alzheimer's disease based on multimodal data fusion](https://pubmed.ncbi.nlm.nih.gov/39969381/). Medicine (Baltimore). 2024 Dec 27;103(52):e41016. (SCI)
 - **Pengfei Zhang**, Yuxin Zhao, Dexian Wang, Zheng Yu††. Fuzzy Rough Set Models Based on Fuzzy Similarity Relation and Information Granularity in Multi-Source Mixed Information Systems. Mathematics, 2024, 12(24): 4039.
 - Dexian Wang, **Pengfei Zhang††**, Ping Deng, Qiaofeng Wu, Wei Chen, Tao Jiang, Wei Huang, Tianrui Li, [An autoencoder-like deep NMF representation learning algorithm for clustering](https://www.sciencedirect.com/science/article/pii/S0950705124012310). Knowledge-Based Systems, 305 (2024) 112597. (SCI)
 - Yongming Luo,Jingjing Hu,Gangqiang Zhang,**Pengfei Zhang††**, Ying Xie, Zhaomin Kuang, Xingji Zeng, Shushi Li, [A dissolved oxygen levels prediction method based on single-hidden layer feedforward neural network using neighborhood information metric](https://www.sciencedirect.com/science/article/pii/S1568494624011025).  Applied Soft Computing, 2024, 167: 112328. (SCI)
