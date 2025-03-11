@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2025.03]: 🎉  One journal paper is published by <i> IEEE Transactions on Fuzzy Systems </i> (IF:10.7). 
+	</li>
 	<li>[2025.03]: 🎉  One journal paper is published by <i> Information Fusion </i> (IF:14.8). 
 	</li>
 	<li>[2024.12]: 🎉  One journal paper is published by <i> Expert Systems with Applications </i> (IF:7.5). 
