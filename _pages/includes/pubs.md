@@ -57,6 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+- **Pengfei Zhang**, Zhaoxuan He, Dexian Wang, Tao Jiang, Baolin Li, Jia Liu, Wei Huang, Tianrui Li, [ODMGIS: An Outlier Detection Method Based on Multi-Granularity Information Sets](https://ieeexplore.ieee.org/document/10923722). IEEE Transactions on Fuzzy Systems ( Early Access), doi:10.1109/TFUZZ.2025.3550749, 2025. (SCI)
 - Liansong Zong, Dongfeng Hu, Qingchi Gui, **Pengfei Zhang** and Jie Wang, [Jointly Learning Type-Aware Relations and Inter-Aspect with Graph Convolutional Networks for Aspect Sentiment Analysis](https://doi.org/10.1007/s11063-024-11715-9). Neural Processing Letters 57, 3 (2025). (SCI)
 - Zheng Yu, Xiaoyan Zheng, Jiaqi Sun, **Pengfei Zhang**, Ying Zhong, Xingyu Lv, Hongwen Yuan, Fanrong Liang, Dexian Wang, [Critical factors influencing live birth rates in fresh embryo transfer for IVF: insights from cluster ensemble algorithms](https://www.nature.com/articles/s41598-025-88210-1). Scientific Reports 15(2025), 3734. (SCI) 
 - Dayong Deng, Jie Wang, Zhixuan Deng††, Keyu Liu and **Pengfei Zhang**, [Rough set interpretation to RBF neural network](https://link.springer.com/article/10.1007/s13042-024-02522-8).  International Journal of Machine Learning and Cybernetics, 2025. (SCI)
