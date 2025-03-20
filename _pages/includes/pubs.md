@@ -96,7 +96,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 
 2022 
 - **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Chuan Luo, Guoqiang Wang, Jia Liu, Shengdong Du. [A data-level fusion model for unsupervised attribute selection in multi-source homogeneous data](https://www.sciencedirect.com/science/article/pii/S1566253521002256). Information Fusion, 2022, 80: 87-103. (SCI)
-- **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Chuan Luo, Keyu Liu, Xiaoling Yang. [Heterogeneous Feature Selection Based on Neighborhood Combination Entropy](https://ieeexplore.ieee.org/document/9850414). IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI)
+- **Pengfei Zhang**, Tianrui Li, Zhong Yuan, Chuan Luo, Keyu Liu, Xiaoling Yang. [Heterogeneous Feature Selection Based on Neighborhood Combination Entropy](https://ieeexplore.ieee.org/document/9850414). IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(3):3514-3527. (SCI)
 - **Pengfei Zhang**, Tianrui Li, Guoqiang Wang, Chuan Luo. [AMG-DTRS: Adaptive multi-granulation decision-theoretic rough sets](https://www.sciencedirect.com/science/article/pii/S0888613X21001596). International Journal of Approximate Reasoning, 2022, 140: 7-30. (SCI)
 - **张鹏飞**, 李天瑞, 王德贤, 袁钟, 王国强, 一种改进的局部多粒度决策理论粗糙集模型. 模糊系统与数学, 2022, 36(06): 40-53. (北大核心期刊) 
 - Zhong Yuan, Hongmei Chen, **Pengfei Zhang**, Jihong Wan, Tianrui Li. [A novel unsupervised approach to heterogeneous feature selection based on fuzzy mutual information](https://ieeexplore.ieee.org/document/9547767). IEEE Transactions on Fuzzy Systems, 2022, 30(9): 3395-3409. (SCI) 
