@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2025.04]: 🎉  One journal paper is published by <i> Applied Intelligence</i> (IF:3.4).
+	</li>
 	<li>[2025.03]: 🎉  One journal paper is accepted by <i> Information Processing and Management </i> (IF:7.4). 
 	</li>
 	<li>[2025.03]: 🎉  One journal paper is published by <i> IEEE Transactions on Fuzzy Systems </i> (IF:10.7). 
