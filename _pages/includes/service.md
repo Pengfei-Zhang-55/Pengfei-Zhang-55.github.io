@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8116bf3d-67ce-4c12-a746-413b4f0a39a0)# <i class="fas fa-atom fa-spin"></i> Academic Services
+# <i class="fas fa-atom fa-spin"></i> Academic Services
 
 ### Journal Editor:
 <ul style="line-height: 120%">
