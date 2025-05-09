@@ -1,7 +1,8 @@
-# <i class="fas fa-atom fa-spin"></i> Academic Services
+![image](https://github.com/user-attachments/assets/8116bf3d-67ce-4c12-a746-413b4f0a39a0)# <i class="fas fa-atom fa-spin"></i> Academic Services
 
 ### Journal Editor:
 <ul style="line-height: 120%">
+ <li> Journal of Artificial Intelligence & Control Systems： Young Editorial Board Member </li>
 <li> Frontiers in Artificial Intelligence (Special issue: The Applications of AI Techniques in Medical Data Processing)
   (Link: https://www.frontiersin.org/research-topics/69066/the-applications-of-ai-techniques-in-medical-data-processing)</li>
 </ul>
@@ -28,6 +29,9 @@
 
 ### Conference Reviewer:
 <ul style="line-height: 120%">
+<li> CCML 2025</li>
+<li> CGCKD 2025</li>
+<li> ACM MM 2025</li>
 <li> AAAI 2023</li>
 <li> CGCKD 2021</li>
 <li> ISKE 2023</li>
@@ -35,6 +39,7 @@
 
 ### Social Work:
 <ul style="line-height: 120%">
+  <li> 四川省中医药发展促进会信息化专委会</li>
   <li> 四川省计算机学会青少年信息科技专委会委员</li>
   <li> 四川省城乡数智中医委员会副秘书长</li>
   <li> 中国人工智能学会粒计算与知识发现委员会委员</li>
