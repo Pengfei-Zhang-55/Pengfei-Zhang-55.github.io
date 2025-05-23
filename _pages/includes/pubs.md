@@ -57,6 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+- Yuxin Zhao, **Pengfei Zhang**, Dexian Wang & Tianrui Li, [A Dynamic Unsupervised Feature Selection Method Based on Information Sets and Fuzzy Rough Sets](https://doi.org/10.1007/978-3-031-92744-7_12). International Joint Conference on Rough Sets, 2025. 
 - Jia Liu, Ruotian Lan, Yajun Du, Xipeng Yuan, Huan Xu, Tianrui Li, Wei Huang, **Pengfei Zhang††**, [Big data fusion with knowledge graph: a comprehensive overview](https://link.springer.com/article/10.1007/s10489-025-06549-4). Applied Intelligence 55, 672 (2025). https://doi.org/10.1007/s10489-025-06549-4. (SCI) 
 - **Pengfei Zhang**, Yuxin Zhao, Lvhui Hu, Dexian Wang††, Lilan Peng, Zhong Li, Herwig Unger, Tianrui Li,[I2QD: Unsupervised feature selection via information quality, quantity, and difference degree](https://www.sciencedirect.com/science/article/pii/S0306457325001141). Information Processing and Management 62 (2025) 104173. (SCI) 
 - Jihong Wan, Xiaoping Li††, **Pengfei Zhang**, Hongmei Chen,  Xiaocao Ouyang, Tianrui Li, Kay Chen Tan, [FFS-MCC: Fusing approximation and fuzzy uncertainty measures for feature selection with multi-correlation collaboration](https://www.sciencedirect.com/science/article/pii/S1566253525001745). Information Fusion, 2025, 103101. (SCI)
