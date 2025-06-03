@@ -57,6 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+- Dexian Wang, Zonglin Li, Sha Yang, Tianrui Ren, **Pengfei Zhang**, Ping Deng, Tianrui Li, [NDRIDC: NMF-based deep representation algorithm for incomplete data clustering](https://www.sciencedirect.com/science/article/pii/S0950705125008172). Knowledge-Based Systems 324 (2025) 113771. (SCI)
 - Wei Huang, Junling Chen, Dexian Wang,  **Pengfei Zhang**, Jia Liu, Tianrui Li, [Multi-granularity Dynamic Knowledge Graph Embedding in Federated Learning](https://link.springer.com/article/10.1007/s44196-025-00878-5).  International Journal of Computational Intelligence Systems, 18, 131 (2025). (SCI) 
 - Yuxin Zhao, **Pengfei Zhang**, Dexian Wang & Tianrui Li, [A Dynamic Unsupervised Feature Selection Method Based on Information Sets and Fuzzy Rough Sets](https://doi.org/10.1007/978-3-031-92744-7_12). International Joint Conference on Rough Sets, 2025. 
 - Jia Liu, Ruotian Lan, Yajun Du, Xipeng Yuan, Huan Xu, Tianrui Li, Wei Huang, **Pengfei Zhang††**, [Big data fusion with knowledge graph: a comprehensive overview](https://link.springer.com/article/10.1007/s10489-025-06549-4). Applied Intelligence 55, 672 (2025). https://doi.org/10.1007/s10489-025-06549-4. (SCI) 
