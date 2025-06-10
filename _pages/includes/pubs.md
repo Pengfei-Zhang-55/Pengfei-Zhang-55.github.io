@@ -71,11 +71,11 @@
 - Xiabing Zhang, Yuqin Li, **Pengfei Zhang††**, Dexian Wang, Guang Yao, Peng Xu††, [Central-Peripheral Nervous System Activation in Exoskeleton Modes: A Granger Causality Analysis via EEG-EMG Fusion](https://www.sciencedirect.com/science/article/pii/S0957417424031786). Expert Systems with Applications, 2025, 126311. (SCI)
 - Yu Tang, Lilan Peng, Zhendong Wu, Jie Hu, **Pengfei Zhang** and Hongchun Lu, [FAHC: frequency adaptive hypergraph constraint for collaborative filtering](https://link.springer.com/article/10.1007/s10489-024-06111-8?utm_source=rct_congratemailt). Applied Intelligence, (2025) 55:242. (SCI)
 - Zhixuan Deng, Tianrui Li, **Pengfei Zhang**, Keyu Liu, Zhong Yuan, Dayong Deng, [Feature selection for label distribution learning based on neighborhood fuzzy rough sets](https://www.sciencedirect.com/science/article/pii/S1568494624013164). Applied Soft Computing, 169 (2025) 112542. (SCI)
-- Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479. (SCI)
-- Qinli Zhang, **Pengfei Zhang††**, Tianrui Li, [Information fusion for large-scale multi-source data based on the Dempster-Shafer evidence theory](https://www.sciencedirect.com/science/article/pii/S1566253524005323). Information Fusion, 115(2025) 102754. (SCI)
+
 
 2024
-
+- Gangqiang Zhang, Jingjing Hu, Jing Yang, **Pengfei Zhang††**, [Interactive streaming feature selection based on neighborhood rough sets](https://doi.org/10.1016/j.engappai.2024.109479). Engineering Applications of Artificial Intelligence, 139 (2025) 109479. (SCI)
+- Qinli Zhang, **Pengfei Zhang††**, Tianrui Li, [Information fusion for large-scale multi-source data based on the Dempster-Shafer evidence theory](https://www.sciencedirect.com/science/article/pii/S1566253524005323). Information Fusion, 115(2025) 102754. (SCI)
 - Yaqin Fu, Lin Xu, Yujie Zhang, Linshuai Zhang, **Pengfei Zhang**, Lu Cao, Tao Jiang††. [Classification and diagnosis model for Alzheimer's disease based on multimodal data fusion](https://pubmed.ncbi.nlm.nih.gov/39969381/). Medicine (Baltimore). 2024 Dec 27;103(52):e41016. (SCI)
 - **Pengfei Zhang**, Yuxin Zhao, Dexian Wang, Zheng Yu††. Fuzzy Rough Set Models Based on Fuzzy Similarity Relation and Information Granularity in Multi-Source Mixed Information Systems. Mathematics, 2024, 12(24): 4039.
 - Dexian Wang, **Pengfei Zhang††**, Ping Deng, Qiaofeng Wu, Wei Chen, Tao Jiang, Wei Huang, Tianrui Li, [An autoencoder-like deep NMF representation learning algorithm for clustering](https://www.sciencedirect.com/science/article/pii/S0950705124012310). Knowledge-Based Systems, 305 (2024) 112597. (SCI)
