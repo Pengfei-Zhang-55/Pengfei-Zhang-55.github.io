@@ -57,6 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+- Dayong Deng, Tong Chen, Zhixuan Deng, Tianrui Li, **Pengfei Zhang**. [Outlier detection based on multiple information extraction](https://doi.org/10.1016/j.ins.2025.122394). Information Sciences 718 (2025) 122394. (SCI) 
 - **Pengfei Zhang**, Qinli Zhang††, Jingxin Liu, Dexian Wang, Hua Ye, Xiabing Zhang,Tianrui Li，[Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors](https://doi.org/10.1016/j.ins.2025.122408). Information Sciences 718 (2025) 122408. (SCI) 
 - Dexian Wang, Zonglin Li, Sha Yang, Tianrui Ren, **Pengfei Zhang**, Ping Deng††, Tianrui Li††, [NDRIDC: NMF-based deep representation algorithm for incomplete data clustering](https://www.sciencedirect.com/science/article/pii/S0950705125008172). Knowledge-Based Systems 324 (2025) 113771. (SCI)
 - Wei Huang, Junling Chen, Dexian Wang,  **Pengfei Zhang**, Jia Liu††, Tianrui Li, [Multi-granularity Dynamic Knowledge Graph Embedding in Federated Learning](https://link.springer.com/article/10.1007/s44196-025-00878-5).  International Journal of Computational Intelligence Systems, 18, 131 (2025). (SCI) 
