@@ -1,4 +1,5 @@
 # <i class="fas fa-comment-dots"></i> Talks
+- *2025.7.10*, [“杏林求真”博士后学术交流活动](https://zyd.cdutcm.edu.cn/yxxxgcxy/xwdt/content_133490)
 - *2024.10.25*, 广西财经数学与数量经济学院学术讲座
 - *2024.7.16-2024.7.21*, [The Local Chair of the FLINS-ISKE 2024 Conference](https://eventos.ucm.es/96182/section/51462/flins-iske-2024.html).
 - *2023.12.2*, [闽南师范大学数学学院学术报告](https://math.mnnu.edu.cn/info/1101/7033.htm)
