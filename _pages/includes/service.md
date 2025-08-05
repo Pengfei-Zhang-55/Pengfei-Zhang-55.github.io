@@ -2,7 +2,7 @@
 
 ### Journal Editor:
 <ul style="line-height: 120%">
-  <li> Human-Centric Intelligent Systems： Young Editorial Board Member </li>
+ <li> Human-Centric Intelligent Systems： Young Editorial Board Member </li>
  <li> Journal of Artificial Intelligence & Control Systems： Young Editorial Board Member </li>
 <li> Frontiers in Artificial Intelligence (Special issue: The Applications of AI Techniques in Medical Data Processing)
   (Link: https://www.frontiersin.org/research-topics/69066/the-applications-of-ai-techniques-in-medical-data-processing)</li>
@@ -47,4 +47,5 @@
   <li> 中国人工智能学会机器学习专业委员会通信委员</li>
   <li> 中国中医药信息学会人工智能分会理事</li>
 </ul>
+
 
