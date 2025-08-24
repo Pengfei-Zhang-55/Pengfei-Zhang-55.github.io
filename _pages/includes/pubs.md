@@ -127,7 +127,8 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 2019
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang, Ching-Feng Wen. [Uncertainty measurement for a fuzzy relation information system](https://ieeexplore.ieee.org/document/8637009). IEEE Transactions on Fuzzy Systems, 2019, 27(12): 2338-2352. (SCI) 
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
-- Xiaoling Xie, Zhaowen Li, **Pengfei Zhang†**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
+- Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
