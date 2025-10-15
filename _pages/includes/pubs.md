@@ -57,7 +57,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
-- 张鹏飞,曾鹏飞,王德贤, 何昭璇，曾芳.[智能融合赋能中医四诊合参客观化](https://kns.cnki.net/).中国中西医结合杂志,1-8
+- 张鹏飞, 曾鹏飞, 王德贤, 何昭璇, 曾芳.[智能融合赋能中医四诊合参客观化](https://kns.cnki.net/).中国中西医结合杂志,1-8
 - Dayong Deng, Tong Chen, Zhixuan Deng, Tianrui Li, **Pengfei Zhang**. [Outlier detection based on multiple information extraction](https://doi.org/10.1016/j.ins.2025.122394). Information Sciences 718 (2025) 122394. (SCI) 
 - **Pengfei Zhang**, Qinli Zhang††, Jingxin Liu, Dexian Wang, Hua Ye, Xiabing Zhang,Tianrui Li，[Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors](https://doi.org/10.1016/j.ins.2025.122408). Information Sciences 718 (2025) 122408. (SCI) 
 - Dexian Wang, Zonglin Li, Sha Yang, Tianrui Ren, **Pengfei Zhang**, Ping Deng††, Tianrui Li††, [NDRIDC: NMF-based deep representation algorithm for incomplete data clustering](https://www.sciencedirect.com/science/article/pii/S0950705125008172). Knowledge-Based Systems 324 (2025) 113771. (SCI)
@@ -130,6 +130,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
 
