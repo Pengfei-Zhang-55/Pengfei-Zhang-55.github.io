@@ -57,6 +57,8 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2025
+-  Yingna Li, Yongde Wang, Haoheng Yuan††, **Pengfei Zhang††**, Wei Huang, Zhiquan Liu, [Backdoor defense framework with sparse training and detection in
+ federated learning](https://www.sciencedirect.com/science/article/pii/S0925231225025032). Neurocomputing, Available online 30 October 2025, 131831. (SCI) 
 - LIlan Peng, **Pengfei Zhang††**, Herwig Unger, [Mixed-Order Spatio-Temporal Representation Learning for Traffic Prediction](https://doi.org/10.1007/978-3-031-98697-0_17).In: Unger, H., Schaible, M. (eds) Advances in Real-Time and Autonomous Systems. AUTSYS-2024 2024. Lecture Notes in Networks and Systems, vol 1543. Springer, Cham. (EI)
 - **张鹏飞**, 曾鹏飞, 王德贤, 何昭璇, 曾芳††.[智能融合赋能中医四诊合参客观化](https://kns.cnki.net/).中国中西医结合杂志,1-8.(CSCD)
 - Dayong Deng, Tong Chen, Zhixuan Deng, Tianrui Li, **Pengfei Zhang**. [Outlier detection based on multiple information extraction](https://doi.org/10.1016/j.ins.2025.122394). Information Sciences 718 (2025) 122394. (SCI) 
@@ -131,6 +133,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
 
