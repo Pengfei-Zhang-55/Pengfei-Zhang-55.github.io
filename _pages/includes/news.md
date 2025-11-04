@@ -1,7 +1,7 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	<li>[2025.10]: 🎉  One journal paper is accepted by <i> Neurocomputing</i> (IF:6.5) </i>.
+	<li>[2025.10]: 🎉  One journal paper is accepted by <i> Neurocomputing (IF:6.5) </i>.
 	</li>
 	<li>[2025.08]: 🎉  I was elected as the Young Editorial Board Member of  <i> Human-Centric Intelligent Systems (HCIN) </i>.
 	</li>
@@ -80,6 +80,7 @@
 	<li>[2022.11]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:11.9)
 	</li>
 </ul>
+
 
 
 
