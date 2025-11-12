@@ -58,9 +58,9 @@
 
 2025
 -  Yingna Li, Yongde Wang, Haoheng Yuan††, **Pengfei Zhang††**, Wei Huang, Zhiquan Liu, [Backdoor defense framework with sparse training and detection in
- federated learning](https://www.sciencedirect.com/science/article/pii/S0925231225025032). Neurocomputing, 661(2026): 131831. (SCI) 
+ federated learning](https://www.sciencedirect.com/science/article/pii/S0925231225025032). Neurocomputing 661(2026): 131831. (SCI) 
 - LIlan Peng, **Pengfei Zhang††**, Herwig Unger, [Mixed-Order Spatio-Temporal Representation Learning for Traffic Prediction](https://doi.org/10.1007/978-3-031-98697-0_17).In: Unger, H., Schaible, M. (eds) Advances in Real-Time and Autonomous Systems. AUTSYS-2024 2024. Lecture Notes in Networks and Systems, vol 1543. Springer, Cham. (EI)
-- **张鹏飞**, 曾鹏飞, 王德贤, 何昭璇, 曾芳††.[智能融合赋能中医四诊合参客观化](https://kns.cnki.net/).中国中西医结合杂志,1-8.(CSCD)
+- **张鹏飞**, 曾鹏飞, 王德贤, 何昭璇, 曾芳††.[智能融合赋能中医四诊合参客观化](https://kns.cnki.net/kcms2/article/abstract?v=hQtzIo_70oFepFyaPuyGDrWLzz3NImBWhbYqL81C3jxw6isaW79eeKMnuGVX3SPbgGII0n99O-Ad-Kitn46_zH3nQPkSqOkf5wpGqPEcG5L9s24OT_rda6NDbU_K-WvPCmfLp8rq9atUwQUrbDqa6EmzhmmpoOl_Qzf1tCdw-yaxnnLr6XQblg==&uniplatform=NZKPT&language=CHS).中国中西医结合杂志,2025,45(10):1165-1172.(CSCD, 卓越期刊)
 - Dayong Deng, Tong Chen, Zhixuan Deng, Tianrui Li, **Pengfei Zhang**. [Outlier detection based on multiple information extraction](https://doi.org/10.1016/j.ins.2025.122394). Information Sciences 718 (2025) 122394. (SCI) 
 - **Pengfei Zhang**, Qinli Zhang††, Jingxin Liu, Dexian Wang, Hua Ye, Xiabing Zhang,Tianrui Li，[Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors](https://doi.org/10.1016/j.ins.2025.122408). Information Sciences 718 (2025) 122408. (SCI) 
 - Dexian Wang, Zonglin Li, Sha Yang, Tianrui Ren, **Pengfei Zhang**, Ping Deng††, Tianrui Li††, [NDRIDC: NMF-based deep representation algorithm for incomplete data clustering](https://www.sciencedirect.com/science/article/pii/S0950705125008172). Knowledge-Based Systems 324 (2025) 113771. (SCI)
@@ -133,6 +133,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
 
