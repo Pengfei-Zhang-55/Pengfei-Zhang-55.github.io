@@ -55,15 +55,15 @@
 ### d. Four Diagnostic Methods Integration in Chinese Medicine
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">TFS 2023</div><img src='images/pubs/FS-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CJITWM 2025</div><img src='images/pubs/D-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [智能融合赋能中医四诊合参客观化](https://kns.cnki.net/kcms2/article/abstract?v=9jT59j8Ji06XFLGtmdH-fUqOQ4GRxOpxHjyXrdlxDc_NFJbhL-upjtEnPe1RwvSMW9oIV3BxCJZJlugZ2Y8wBzEqc5i45UhJMrTLIz8A4uLWndsw9gxpMxtJHUvqO9n8mrXRp5spceFZ7jN4wat5ozrQkVmOZLgMGDSFqd73BcLu2h5N47AwHg==&uniplatform=NZKPT&language=CHS)
 
 **张鹏飞**, 曾鹏飞, 王德贤, 何昭璇, 曾 芳
 	
-- [![DOI](https://img.shields.io/badge/DOI-%2010.1109%2FTFUZZ.2023.3238803-green)]([https://ieeexplore.ieee.org/document/10032146/](https://kns.cnki.net/kcms2/article/abstract?v=9jT59j8Ji06XFLGtmdH-fUqOQ4GRxOpxHjyXrdlxDc_NFJbhL-upjtEnPe1RwvSMW9oIV3BxCJZJlugZ2Y8wBzEqc5i45UhJMrTLIz8A4uLWndsw9gxpMxtJHUvqO9n8mrXRp5spceFZ7jN4wat5ozrQkVmOZLgMGDSFqd73BcLu2h5N47AwHg==&uniplatform=NZKPT&language=CHS)) 
-- The main goal of most information quality (IQ)-based measures is to combine data provided by multiple information sources to enhance the quality of information essential for decision makers to perform their tasks.
+- [![DOI](https://img.shields.io/badge/10.7661%2Fj.cjim.20250819.285)]([https://ieeexplore.ieee.org/document/10032146/](https://kns.cnki.net/kcms2/article/abstract?v=9jT59j8Ji06XFLGtmdH-fUqOQ4GRxOpxHjyXrdlxDc_NFJbhL-upjtEnPe1RwvSMW9oIV3BxCJZJlugZ2Y8wBzEqc5i45UhJMrTLIz8A4uLWndsw9gxpMxtJHUvqO9n8mrXRp5spceFZ7jN4wat5ozrQkVmOZLgMGDSFqd73BcLu2h5N47AwHg==&uniplatform=NZKPT&language=CHS)) 
+- This paper proposed a framework that leverages multi-granularity learning and multi-source information fusion to address the challenges posed by the multi-source, multimodality, spatiotemporal dynamics, complexity and uncertainty inherent in Chinese Medicine diagnostic data.
 
 </div>
 </div>
@@ -149,6 +149,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
 
