@@ -1,5 +1,6 @@
 # <i class="fas fa-cog fa-spin"></i> Activity
-- 2025.11.21-2025.11.23 he 20th International Conference on Intelligent Systems and Knowledge Engineering (ISKE 2025), 广东顺德
+- 2025.11.29-2025.11.30 参加四川省继续教育项目数智中医理论与临床应用高级研修班, 四川成都
+- 2025.11.21-2025.11.23 The 20th International Conference on Intelligent Systems and Knowledge Engineering (ISKE 2025), 广东顺德
 - 2025.11.7-2025.11.9 参加2025年Human-Centric Intelligent Systems 编委会及2025年第五届数字化社会与智能系统国际学术会议(DSInS 2025), 海南海口
 - 2025.10.31-2025.11.2 参加中国中西医结合学会智慧医疗专业委员会2025年学术年会暨换届选举会议, 黑龙江哈尔滨
 - 2025.10.25-2025.10.26 参加重庆市针灸学会关于举办针灸器械专委会学术年会暨重庆市中医药管理局针灸推拿智能装备重点实验室学术会议, 重庆万州
@@ -24,6 +25,7 @@
 - 2023.7.22-2023.7.23 参加KDD China峰会, 四川成都
 - 2023.7.18-2023.7.20 参加2023年中国粒计算与知识发现学术会议(CGCKD 2023), 福建厦门
  
+
 
 
 
