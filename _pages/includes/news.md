@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2025.12]: 🎉   One journal paper is accepted by <i> 中国中医药信息杂志 </i> (科技核心). 
+	</li>
 	<li>[2025.12]: 🎉   Pengfei Zhang was elected as the Area Editor of  <i> International Journal of Computational Intelligence Systems (IJCIS) </i>.
 	</li>
 	<li>[2025.11]: 🎉  张鹏飞当选为中国中西医结合学会智慧医疗专业委会青年委员.
@@ -84,6 +86,7 @@
 	<li>[2022.11]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:11.9)
 	</li>
 </ul>
+
 
 
 
