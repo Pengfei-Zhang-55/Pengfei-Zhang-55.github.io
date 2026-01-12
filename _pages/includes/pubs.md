@@ -73,6 +73,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2026
+- Dexian Wang, Sha Yang, Ping Deng, Zheng Yu, Qiaofeng Wu, Wei Huang, **Pengfei Zhang††**, Weiping Ding††, [Deep multi-view clustering algorithm with integrated auto-encoder and non-negative matrix factorization](https://www.sciencedirect.com/science/article/pii/S1568494625018654). Applied Soft Computing, Available online 7 January 2026, 114552. (SCI)
 -  Yingna Li, Yongde Wang, Haoheng Yuan††, **Pengfei Zhang††**, Wei Huang, Zhiquan Liu, [Backdoor defense framework with sparse training and detection in federated learning](https://www.sciencedirect.com/science/article/pii/S0925231225025032). Neurocomputing 661(2026): 131831. (SCI) 
 
 2025
@@ -150,6 +151,7 @@ Detection](https://www.sciencedirect.com/science/article/pii/S1566253524003622).
 - Pei Wang, **Pengfei Zhang†**, Zhaowen Li. [A three-way decision method based on Gaussian kernel in a hybrid information system with images: An application in medical diagnosis](https://www.sciencedirect.com/science/article/pii/S1568494619300353). Applied Soft Computing, 2019, 77: 734-749. (SCI) 
 - Xiaoling Xie, Zhaowen Li, **Pengfei Zhang††**, Gangqiang Zhang. [Information structures and uncertainty measures in an incomplete probabilistic set-valued information system](https://ieeexplore.ieee.org/document/8638506). IEEE Access, 2019, 7: 27501-27514. (SCI)
 - Zhaowen Li, **Pengfei Zhang†**, Xun Ge, Ningxin Xie, Gangqiang Zhang. [Uncertainty measurement for a covering information system](https://link.springer.com/article/10.1007/s00500-018-3458-5). Soft Computing, 2019, 23(14): 5307-5325. (SCI) 
+
 
 
 
