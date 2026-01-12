@@ -1,6 +1,8 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+	<li>[2026.01]: 🎉   One journal paper is published by <i> Applied Soft Computing </i> (IF:7.2). 
+	</li>
 	<li>[2025.12]: 🎉   One journal paper is accepted by <i> 中国中医药信息杂志 </i> (科技核心). 
 	</li>
 	<li>[2025.12]: 🎉   Pengfei Zhang was elected as the Area Editor of  <i> International Journal of Computational Intelligence Systems (IJCIS) </i>.
@@ -86,6 +88,7 @@
 	<li>[2022.11]: 🎉 One journal paper is accepted by <i> IEEE Transactions on Fuzzy Systems</i> (IF:11.9)
 	</li>
 </ul>
+
 
 
 
