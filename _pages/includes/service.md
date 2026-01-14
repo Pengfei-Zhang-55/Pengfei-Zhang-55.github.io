@@ -12,6 +12,7 @@
 
 ### Journal Reviewers (more than 20 journals):
 <ul style="line-height: 120%">
+<li> IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)</li>
 <li> IEEE Transaction on Fuzzy Systems (TFS)</li>
 <li> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 <li> IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
@@ -49,6 +50,7 @@
   <li> 中国人工智能学会机器学习专业委员会通信委员</li>
   <li> 中国中医药信息学会人工智能分会理事</li>
 </ul>
+
 
 
 
