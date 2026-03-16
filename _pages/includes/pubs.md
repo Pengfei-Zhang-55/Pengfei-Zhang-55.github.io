@@ -73,9 +73,11 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2026
+- Xin Min, Wei Li, Weidong Xie, **Pengfei Zhang††**, Chuanbiao Wen, Weiping Ding. [Hypergraph topic neural network with cross-modal fusion for latent treatment pattern recommendation](https://www.sciencedirect.com/science/article/pii/S095219762600789X?dgcid=author). Engineering Applications of Artificial Intelligence, 2026, 173: 114508. (SCI) 
+- Junan Yan, Shutong Pang, Lingxuan Yin, Xianping Li, Chunhui Yuan, Jun Li, Wei Shao, Guoxian Deng, **Pengfei Zhang††**, Jiangheng Guan††, Jiwei Yao††. [GAM-MSF-YOLO: An enhanced deep learning approach for real-time monitoring of mouse void spot assays](https://www.sciencedirect.com/science/article/pii/S174680942600652X?dgcid=coauthor). Biomedical Signal Processing and Control, 2026, 120: 110098. (SCI)  
 - **Pengfei Zhang††**. [The Applications of AI Techniques in Medical Data Processing](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1794193/full). Frontiers in Artificial Intelligence, 9, 1794193. (ESCI)
 - Jingya Cao†, Yuzhu Qu†, Li Chen†, Tianyu Liu, Jing Guo, Zilei Tian, Chongkai Luo, Yulai Gong, Zhenfang Lin, Xin Yang, **Pengfei Zhang**, Wei Lin, Tao Yin††, Fang Zeng††, [The regulations on topological organization of prefrontal-sensorimotor cortical network elicited by tonifying and reducing manipulations of acupuncture: A graph theory analysis study based on fNIRS](https://www.sciencedirect.com/science/article/pii/S1053811926000443?via%3Dihub). NeuroImage, 327 (2026) 121726. (SCI) 
-- Dexian Wang, Sha Yang, Ping Deng, Zheng Yu, Qiaofeng Wu, Wei Huang, **Pengfei Zhang††**, Weiping Ding††, [Deep multi-view clustering algorithm with integrated auto-encoder and non-negative matrix factorization](https://www.sciencedirect.com/science/article/pii/S1568494625018654). Applied Soft Computing, 190 (2026) 114552 . (SCI)
+- Dexian Wang, Sha Yang, Ping Deng, Zheng Yu, Qiaofeng Wu, Wei Huang, **Pengfei Zhang††**, Weiping Ding††, [Deep multi-view clustering algorithm with integrated auto-encoder and non-negative matrix factorization](https://www.sciencedirect.com/science/article/pii/S1568494625018654). Applied Soft Computing, 190 (2026) 114552. (SCI)
 -  Yingna Li, Yongde Wang, Haoheng Yuan††, **Pengfei Zhang††**, Wei Huang, Zhiquan Liu, [Backdoor defense framework with sparse training and detection in federated learning](https://www.sciencedirect.com/science/article/pii/S0925231225025032). Neurocomputing, 661(2026): 131831. (SCI) 
 
 2025
