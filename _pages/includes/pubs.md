@@ -73,7 +73,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2026
-- 陈博文,刘津佩,赵宇心,肖茂淋, **张鹏飞††**等. [基于隐结构模型和D-S证据理论的乳腺癌中医辨证理论研究](https://kns.cnki.net/kcms2/article/abstract?v=iB5Z0i9DW_wJl9ixCwSl4I9r7HO4RVaR_dxDrwWdF-rgQ9gzmc4XHev0y9L7MxdfsubeS_FL6FYjtwd70FaHcjBp1D6_iEENQXj4F2yV0R1kRSEeDMq4MzdJNnCeNT2jU7pIMdWf6cfauzjDWcPDQd3Df7iZsj-oqklee6zagL3UxaAal1tb_w==&uniplatform=NZKPT&language=CHS). 中国中医药信息杂志,1-8. (CSCD)
+- 陈博文,刘津佩,赵宇心,肖茂淋, **张鹏飞**††等. [基于隐结构模型和D-S证据理论的乳腺癌中医辨证理论研究](https://kns.cnki.net/kcms2/article/abstract?v=iB5Z0i9DW_wJl9ixCwSl4I9r7HO4RVaR_dxDrwWdF-rgQ9gzmc4XHev0y9L7MxdfsubeS_FL6FYjtwd70FaHcjBp1D6_iEENQXj4F2yV0R1kRSEeDMq4MzdJNnCeNT2jU7pIMdWf6cfauzjDWcPDQd3Df7iZsj-oqklee6zagL3UxaAal1tb_w==&uniplatform=NZKPT&language=CHS). 中国中医药信息杂志,1-8. (CSCD)
 - Xin Min, Wei Li, Weidong Xie, **Pengfei Zhang††**, Chuanbiao Wen, Weiping Ding. [Hypergraph topic neural network with cross-modal fusion for latent treatment pattern recommendation](https://www.sciencedirect.com/science/article/pii/S095219762600789X?dgcid=author). Engineering Applications of Artificial Intelligence, 2026, 173: 114508. (SCI) 
 - Junan Yan, Shutong Pang, Lingxuan Yin, Xianping Li, Chunhui Yuan, Jun Li, Wei Shao, Guoxian Deng, **Pengfei Zhang††**, Jiangheng Guan††, Jiwei Yao††. [GAM-MSF-YOLO: An enhanced deep learning approach for real-time monitoring of mouse void spot assays](https://www.sciencedirect.com/science/article/pii/S174680942600652X?dgcid=coauthor). Biomedical Signal Processing and Control, 2026, 120: 110098. (SCI)  
 - **Pengfei Zhang††**. [The Applications of AI Techniques in Medical Data Processing](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1794193/full). Frontiers in Artificial Intelligence, 9, 1794193. (ESCI)
