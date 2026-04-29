@@ -1,4 +1,5 @@
 # <i class="fas fa-cog fa-spin"></i> Activity
+- 2026.4.24-2026.4.25 参加第五届中国智能感知与融合大会, 中国天津
 - 2025.11.29-2025.11.30 参加四川省继续教育项目数智中医理论与临床应用高级研修班, 四川成都
 - 2025.11.21-2025.11.23 The 20th International Conference on Intelligent Systems and Knowledge Engineering (ISKE 2025), 广东顺德
 - 2025.11.7-2025.11.9 参加2025年Human-Centric Intelligent Systems 编委会及2025年第五届数字化社会与智能系统国际学术会议(DSInS 2025), 海南海口
