@@ -1,8 +1,9 @@
 # <i class="fas fa-trophy"></i> Honors and Awards
-- *2025.12* 荣获成中医“十四五”代表性论文
-- *2025.12* 荣获成中医“高被引”论文表彰
+- *2025.12* [入选成中医首批青年科学家储备计划](https://mp.weixin.qq.com/s/yOMVkqSdpdlNXh7uys-8vQ).
+- *2025.12* [荣获成中医“十四五”代表性论文](https://mp.weixin.qq.com/s/Crq0et_kYTQNCjW2tdTvfg).
+- *2025.12* [荣获成中医“高被引”论文表彰](https://mp.weixin.qq.com/s/VKJ1njP-5CxOKPIPQlXD2g).
 - *2025.12* 荣获成中医“专家帮扶先进个人”
-- *2025.11* 荣获 2025 年度博士后科研业绩评估考核中西医结合学科组二等资助（全国仅 3 人）
+- *2025.11* [荣获 2025 年度博士后科研业绩评估考核中西医结合学科组二等资助（全国仅 3 人）](https://mp.weixin.qq.com/s/Ck8a6rGyVUMJg8WDkAR43w).
 - *2025.11* 指导学生获 DSInS 2025 最佳论文奖
 - *2025.10* 荣获成中医第十一届校级教学成果二等奖
 - *2024.7* FLINS 2024 Best Poster Award (Dexian Wang, **Pengfei Zhang**, Ping Deng, Tianrui Li)
