@@ -2,9 +2,10 @@
 
 ### Journal Editor:
 <ul style="line-height: 120%">
+ <li> Research：Youth  Editor </li>
  <li> International Journal of Computational Intelligence Systems： Area Editor </li>
  <li> Human-Centric Intelligent Systems： Young Editorial Board Member </li>
- <li> Journal of Artificial Intelligence & Control Systems： Young Editorial Board Member </li>
+ <li> Journal of Artificial Intelligence & Control Systems： Youth  Editor </li>
 <li> Frontiers in Artificial Intelligence (Special issue: The Applications of AI Techniques in Medical Data Processing)
   (Link: https://www.frontiersin.org/research-topics/69066/the-applications-of-ai-techniques-in-medical-data-processing)</li>
 </ul>
