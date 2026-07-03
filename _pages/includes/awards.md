@@ -1,4 +1,10 @@
 # <i class="fas fa-trophy"></i> Honors and Awards
+- *2025.12* 荣获成中医“十四五”代表性论文
+- *2025.12* 荣获成中医“高被引”论文表彰
+- *2025.12* 荣获成中医“专家帮扶先进个人”
+- *2025.11* 荣获 2025 年度博士后科研业绩评估考核中西医结合学科组二等资助（全国仅 3 人）
+- *2025.11* 指导学生获 DSInS 2025 最佳论文奖
+- *2025.10* 荣获成中医第十一届校级教学成果二等奖
 - *2024.7* FLINS 2024 Best Poster Award (Dexian Wang, **Pengfei Zhang**, Ping Deng, Tianrui Li)
 - *2023.12* [2023年度西南交通大学优秀博士论文](https://gsnews.swjtu.edu.cn/info/1063/7544.htm) (全校仅10篇).
 - *2023.10* [2023年度ACM Chengdu Chapter 优秀博士论文奖（提名奖,全省仅一篇）](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=f322517e-fe23-43e6-bfb9-824b1d8c4429).
