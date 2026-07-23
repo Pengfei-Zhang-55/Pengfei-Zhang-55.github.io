@@ -73,6 +73,7 @@
 † denotes equal contribution， †† denotes Corresponding Author
 
 2026
+- Pengfei Zhang, Zhong Yuan, Siyi Yu, Jiawei Luo, Xin Min, Tianrui Li, Zheng Yu††. [Multi-Kernelized Fuzzy Granular Outlier Detector](https://ieeexplore.ieee.org/abstract/document/11592597). IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2026.3708765. (SCI)
 - Jinyu Wen†, Guanhua Zhang†, Jiying Liu, Meie Fang††, **Pengfei Zhang††**, Weiping Ding††, Herwig Unger. [An Interpretable Hybrid-Domain Fusion Network for Subjective Memory Concern Diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002745).  Information Fusion 135 (2026) 104395. (SCI) 
 - 陈博文,刘津佩,赵宇心,肖茂淋, **张鹏飞**††. [基于隐结构模型和D-S证据理论的乳腺癌中医辨证理论研究](https://kns.cnki.net/kcms2/article/abstract?v=iB5Z0i9DW_wJl9ixCwSl4I9r7HO4RVaR_dxDrwWdF-rgQ9gzmc4XHev0y9L7MxdfsubeS_FL6FYjtwd70FaHcjBp1D6_iEENQXj4F2yV0R1kRSEeDMq4MzdJNnCeNT2jU7pIMdWf6cfauzjDWcPDQd3Df7iZsj-oqklee6zagL3UxaAal1tb_w==&uniplatform=NZKPT&language=CHS). 中国中医药信息杂志,1-8. (CSCD)
 - Xin Min, Wei Li, Weidong Xie, **Pengfei Zhang††**, Chuanbiao Wen, Weiping Ding. [Hypergraph topic neural network with cross-modal fusion for latent treatment pattern recommendation](https://www.sciencedirect.com/science/article/pii/S095219762600789X?dgcid=author). Engineering Applications of Artificial Intelligence, 2026, 173: 114508. (SCI) 
