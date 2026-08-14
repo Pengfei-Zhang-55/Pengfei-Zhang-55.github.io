@@ -71,7 +71,8 @@
 ##  Journal and Conference  Publications
 
 † denotes equal contribution， †† denotes Corresponding Author
-
+2027
+- Qingyun Lin, Lilan Peng, Zhendong Wu, Yiding Fan, Ke Zhao, **Pengfei Zhang**. [GSLoRa: Gradient spectral alignment for low-rank adaptation](https://www.sciencedirect.com/science/article/pii/S0893608026008944?via%3Dihub=). Neural Networks, 205 (2027) 109436. (SCI)
 2026
 - **Pengfei Zhang**, Zhong Yuan, Siyi Yu, Jiawei Luo, Xin Min, Tianrui Li, Zheng Yu††. [Multi-Kernelized Fuzzy Granular Outlier Detector](https://ieeexplore.ieee.org/abstract/document/11592597). IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2026.3708765. (SCI)
 - Jinyu Wen†, Guanhua Zhang†, Jiying Liu, Meie Fang††, **Pengfei Zhang††**, Weiping Ding††, Herwig Unger. [An Interpretable Hybrid-Domain Fusion Network for Subjective Memory Concern Diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002745).  Information Fusion 135 (2026) 104395. (SCI) 
