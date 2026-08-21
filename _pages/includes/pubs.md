@@ -78,6 +78,7 @@
   
 2026
 
+- Ying Zhang, Zhaowen Li, Tingyao Yang, **Pengfei Zhang**, Jihong Wan, Zhihong Wang. [Multi-scale fuzzy information discovery: a novel approach to unsupervised attribute reduction](https://doi.org/10.1007/s13042-026-03273-4). International Journal of Machine Learning and Cybernetics, (2026) 17:433. (SCI)
 - Tengyu Yin, Hongmei Chen, **Pengfei Zhang**, Zhong Yuan, Binbin Sang, Shi-Jinn Horng, Tianrui Li, Zechao Li. [Label Distribution Learning Via Collaborative Multi-Scale Individual and Global Label Perspectives](https://ieeexplore.ieee.org/document/11657539). IEEE Transactions on Multimedia, doi: 10.1109/TMM.2026.3724733.
 - Zonglin Li, Lianbo Tao, Qiaofeng Wu, Ping Deng, **Pengfei Zhang**, Dexian Wang, Tianrui Li, Shuguang Yu. [A Deep Non-negative Matrix Factorization Algorithm for Acupuncture Omics Data Clustering](https://link.springer.com/chapter/10.1007/978-981-92-2494-4_6). Machine Learning and Knowledge Engineering for Decision Making. FLINS-ISKE 2026. Lecture Notes in Computer Science, vol 16755. Springer, Singapore.(EI)
 - Junling Chen, Xiaocao Ouyang, Jia Liu, **Pengfei Zhang**, Wei Huang. [TimeGFD: A Lightweight Client-Side Time-Series Forecasting Framework Based on Generative Federated Distillation](https://link.springer.com/chapter/10.1007/978-981-92-2497-5_10). Machine Learning and Knowledge Engineering for Decision Making. FLINS-ISKE 2026. Lecture Notes in Computer Science, vol 16756. Springer, Singapore.(EI)
