@@ -74,6 +74,8 @@
 
 2027
 
+- Xin Min†, Jiawei Luo†, Tong Xie, Chuanbiao Wen, Weiping Ding, Zhong Li,  **Pengfei Zhang **. [A multi-scale temporal hypergraph neural topic model for treatment pattern mining](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001139). Information Processing and Management 64 (2027) 105180. (SCI)
+
 - Qingyun Lin, Lilan Peng, Zhendong Wu, Yiding Fan, Ke Zhao, **Pengfei Zhang**. [GSLoRa: Gradient spectral alignment for low-rank adaptation](https://www.sciencedirect.com/science/article/pii/S0893608026008944?via%3Dihub=). Neural Networks, 205 (2027) 109436. (SCI)
   
 2026
