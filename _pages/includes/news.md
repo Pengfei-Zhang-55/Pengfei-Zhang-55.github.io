@@ -1,7 +1,7 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	<li>[2026.09]: 🎉  One journal paper is is published by <i> Information Processing and Management </i> (IF: 8). 
+	<li>[2026.09]: 🎉  One journal paper is is published by <i> Information Processing and Management </i> (IF: 8.0). 
 	</li>
 	<li>[2026.09]: 🎉  One conference paper is published by <i> IJCAI-26 </i> (顶会). 
 	</li>
@@ -9,7 +9,7 @@
 	</li>
 	<li>[2026.06]: 🎉  One journal paper is accepted by <i> IEEE Transactions on Multimedia </i> (IF:9.897). 
 	</li>
-	<li>[2026.04]: 🎉  One journal paper is accepted by <i> Information Fusion </i> (IF:15.5). 
+	<li>[2026.04]: 🎉  One journal paper is accepted by <i> Information Fusion </i> (IF:17.4). 
 	</li>	
 	<li>[2026.03]: 🎉   One journal paper is accepted by <i> Engineering Applications of Artificial Intelligence </i> (IF:8.0). 
 	</li>
