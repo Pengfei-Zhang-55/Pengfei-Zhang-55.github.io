@@ -81,7 +81,7 @@
 2026
 
 - Zhaoyi Yuan, Jia Liu, Xipeng Yuan, Wei Huang, **Pengfei Zhang**, Tianrui Li. [EchoDynamicsNet: A Fluctuation-Aware Echo-Enhanced Network for 
-Chinese simile sentiment classification](https://www.sciencedirect.com/science/article/pii/S0952197626026850). Engineering Applications of Arti cia Intelligence 184 (2026) 116401. (SCI)
+Chinese simile sentiment classification](https://www.sciencedirect.com/science/article/pii/S0952197626026850). Engineering Applications of Artificial Intelligence 184 (2026) 116401. (SCI)
 - Anna Wang, Chao Zhang††, Mingwei Lin, Junbo Zhang, Zeshui Xu, Wentao Li, **Pengfei Zhang** and Oscar Castillo. [Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment](https://www.ijcai.org/proceedings/2026/891). Proceedings of the thirty-fifth international joint conference on artificial intelligence, IJCAI-26, 8032–8040. (顶会)
 - Shikuan Lu, Yipeng Zhao, Yuxin Zhao, Huangtang Dong, Chunxu Qu, Weicai Zhong, Peihai Zhang††, Ziyang Ma††, **Pengfei Zhang††**. [Interpretable machine learning uncovers core seminal microbial signatures in idiopathic oligoasthenospermia](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2026.1923816/full). Frontiers in Cellular and Infection Microbiology, 16: 1923816. (SCI)
 - Ying Zhang, Zhaowen Li, Tingyao Yang, **Pengfei Zhang**, Jihong Wan, Zhihong Wang. [Multi-scale fuzzy information discovery: a novel approach to unsupervised attribute reduction](https://doi.org/10.1007/s13042-026-03273-4). International Journal of Machine Learning and Cybernetics, (2026) 17:433. (SCI)
