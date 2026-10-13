@@ -1,9 +1,11 @@
 # <i class="fas fa-rss "></i> News
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
-	<li>[2026.10]: 🎉  Selected for the 2026 list of the World’s Top 2% Scientists.. 
+	<li>[2026.09]: 🎉  One journal paper is  accepted by <i>  Pattern Recognition </i> (IF: 9.1). 
 	</li>
-	<li>[2026.09]: 🎉  One journal paper is is published by <i> Information Processing and Management </i> (IF: 8.0). 
+	<li>[2026.10]: 🎉  Selected for the 2026 list of the World’s Top 2% Scientists.
+	</li>
+	<li>[2026.09]: 🎉  One journal paper is published by <i> Information Processing and Management </i> (IF: 8.0). 
 	</li>
 	<li>[2026.09]: 🎉  One conference paper is published by <i> IJCAI-26 </i> (顶会). 
 	</li>
