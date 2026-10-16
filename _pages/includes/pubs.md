@@ -79,7 +79,7 @@
 - Qingyun Lin, Lilan Peng, Zhendong Wu, Yiding Fan, Ke Zhao, **Pengfei Zhang**. [GSLoRa: Gradient spectral alignment for low-rank adaptation](https://www.sciencedirect.com/science/article/pii/S0893608026008944?via%3Dihub=). Neural Networks, 205 (2027) 109436. (SCI)
   
 2026
-
+- Jin Zhou, Yu-Xin Zhao, Jin-Pei Liu, Mao-Lin Xiao, Peng-Fei Zhang††. [A causality-guided multimodal graph neural network for Alzheimer’s disease diagnosis from brain imaging data](https://www.tmrjournals.com/article.html?J_num=11&a_id=4045).  Medical Data Mining 2026 9(4).
 - Zhaoyi Yuan, Jia Liu, Xipeng Yuan, Wei Huang, **Pengfei Zhang**, Tianrui Li. [EchoDynamicsNet: A Fluctuation-Aware Echo-Enhanced Network for 
 Chinese simile sentiment classification](https://www.sciencedirect.com/science/article/pii/S0952197626026850). Engineering Applications of Artificial Intelligence 184 (2026) 116401. (SCI)
 - Anna Wang, Chao Zhang††, Mingwei Lin, Junbo Zhang, Zeshui Xu, Wentao Li, **Pengfei Zhang** and Oscar Castillo. [Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment](https://www.ijcai.org/proceedings/2026/891). Proceedings of the thirty-fifth international joint conference on artificial intelligence, IJCAI-26, 8032–8040. (顶会)
